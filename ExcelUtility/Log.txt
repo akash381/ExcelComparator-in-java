@@ -1,0 +1,3926 @@
+Both the workbook have same number of sheets !----------Comparing Cumulative Summary Tabulation o----------Everything matched in sheet : Cumulative Summary Tabulation o--------------------------------------------------------------------
+----------Comparing Cumulative Summary Tabulation 2----------Mismatch found in cell 6/4 1 : 2--------------------------------------------------------------------
+----------Comparing Cumulative and Interval Summary----------Everything matched in sheet : Cumulative and Interval Summary--------------------------------------------------------------------
+----------Comparing CIOMS II Line Listing of the In----------Mismatch found in cell 21/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 22/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 23/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 24/18  : YMismatch found in cell 24/19  : YMismatch found in cell 24/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 25/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 25/8 PLACEBO : ABCIXIMABMismatch found in cell 25/9 1) Dose: 5 IU -
+Freq: 1 in 1 Total : 1) Dose: 13.6 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 204 mg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 25/11 1) 01-JUL-2003 TO 01-JUL-2003 : 1) 01-JUL-2003 TO 01-JUL-2003
+2) 01-JUL-2003 TO 01-JUL-2003Mismatch found in cell 25/12 1) 0 : 1) 0
+2) 0Mismatch found in cell 25/18  : NMismatch found in cell 25/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 26/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 26/8 ABCIXIMAB : PLACEBOMismatch found in cell 26/9 1) Dose: 13.6 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 204 mg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU -
+Freq: 1 in 1 TotalMismatch found in cell 26/11 1) 01-JUL-2003 TO 01-JUL-2003
+2) 01-JUL-2003 TO 01-JUL-2003 : 1) 01-JUL-2003 TO 01-JUL-2003Mismatch found in cell 26/12 1) 0
+2) 0 : 1) 0Mismatch found in cell 26/18 N : Mismatch found in cell 26/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 27/18  : YMismatch found in cell 27/19  : YMismatch found in cell 27/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 28/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 28/8 PLACEBO : ABCIXIMABMismatch found in cell 28/9 1) Dose: 5 IU -
+Freq: 1 in 1 Total : 1) Dose: 13.6 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 204 mg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 28/11 1) 01-JUL-2003 TO 01-JUL-2003 : 1) 01-JUL-2003 TO 01-JUL-2003
+2) 01-JUL-2003 TO 01-JUL-2003Mismatch found in cell 28/12 1) 0 : 1) 0
+2) 0Mismatch found in cell 28/18  : YMismatch found in cell 28/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 29/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 29/8 ABCIXIMAB : PLACEBOMismatch found in cell 29/9 1) Dose: 13.6 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 204 mg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU -
+Freq: 1 in 1 TotalMismatch found in cell 29/11 1) 01-JUL-2003 TO 01-JUL-2003
+2) 01-JUL-2003 TO 01-JUL-2003 : 1) 01-JUL-2003 TO 01-JUL-2003Mismatch found in cell 29/12 1) 0
+2) 0 : 1) 0Mismatch found in cell 29/18 Y : Mismatch found in cell 29/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 30/18  : YMismatch found in cell 30/19  : YMismatch found in cell 30/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 31/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 31/8 PLACEBO : ABCIXIMABMismatch found in cell 31/9 1) Dose: 5 IU -
+Freq: 1 in 1 Total : 1) Dose: 13.6 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 204 mg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 31/11 1) 01-JUL-2003 TO 01-JUL-2003 : 1) 01-JUL-2003 TO 01-JUL-2003
+2) 01-JUL-2003 TO 01-JUL-2003Mismatch found in cell 31/12 1) 0 : 1) 0
+2) 0Mismatch found in cell 31/18  : YMismatch found in cell 31/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 32/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 32/8 ABCIXIMAB : PLACEBOMismatch found in cell 32/9 1) Dose: 13.6 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 204 mg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU -
+Freq: 1 in 1 TotalMismatch found in cell 32/11 1) 01-JUL-2003 TO 01-JUL-2003
+2) 01-JUL-2003 TO 01-JUL-2003 : 1) 01-JUL-2003 TO 01-JUL-2003Mismatch found in cell 32/12 1) 0
+2) 0 : 1) 0Mismatch found in cell 32/18 Y : Mismatch found in cell 32/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 33/18  : YMismatch found in cell 33/19  : YMismatch found in cell 33/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 34/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 34/8 PLACEBO : ABCIXIMABMismatch found in cell 34/9 1) Dose: 5 IU -
+Freq: 1 in 1 Total : 1) Dose: 13.6 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 204 mg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 34/11 1) 01-JUL-2003 TO 01-JUL-2003 : 1) 01-JUL-2003 TO 01-JUL-2003
+2) 01-JUL-2003 TO 01-JUL-2003Mismatch found in cell 34/12 1) 0 : 1) 0
+2) 0Mismatch found in cell 34/18  : YMismatch found in cell 34/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 35/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 35/8 ABCIXIMAB : PLACEBOMismatch found in cell 35/9 1) Dose: 13.6 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 204 mg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU -
+Freq: 1 in 1 TotalMismatch found in cell 35/11 1) 01-JUL-2003 TO 01-JUL-2003
+2) 01-JUL-2003 TO 01-JUL-2003 : 1) 01-JUL-2003 TO 01-JUL-2003Mismatch found in cell 35/12 1) 0
+2) 0 : 1) 0Mismatch found in cell 35/18 Y : Mismatch found in cell 35/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 76/18  : YMismatch found in cell 76/19  : YMismatch found in cell 76/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 77/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 77/8 PLACEBO : ABCIXIMABMismatch found in cell 77/9 1) Dose: 5 IU -
+Freq: 2 in 1 Total : 1) Dose: 8.1 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 168 mg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 77/11 1) 08-AUG-2003 TO 08-AUG-2003 : 1) 08-AUG-2003 TO 08-AUG-2003
+2) 08-AUG-2003 TO 08-AUG-2003Mismatch found in cell 77/12 1) 0 : 1) 0
+2) 0Mismatch found in cell 77/18  : NMismatch found in cell 77/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 78/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 78/8 ABCIXIMAB : PLACEBOMismatch found in cell 78/9 1) Dose: 8.1 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 168 mg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU -
+Freq: 2 in 1 TotalMismatch found in cell 78/11 1) 08-AUG-2003 TO 08-AUG-2003
+2) 08-AUG-2003 TO 08-AUG-2003 : 1) 08-AUG-2003 TO 08-AUG-2003Mismatch found in cell 78/12 1) 0
+2) 0 : 1) 0Mismatch found in cell 78/18 N : Mismatch found in cell 78/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 137/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 138/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 139/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 140/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 315/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 316/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 317/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 348/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 349/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 350/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 351/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 381/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 382/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 434/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO
+4) ABCIXIMAB INJECTION : 1) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 435/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 435/8 PLACEBO : ABCIXIMABMismatch found in cell 435/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total
+2) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: 40 mg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 435/11 1) 08-JAN-2004 TO -
+2) 08-JAN-2004 TO - : 1) 08-JAN-2004 TO -Mismatch found in cell 435/12 1) 
+2) : 1)Mismatch found in cell 435/18  : YMismatch found in cell 435/19  : NMismatch found in cell 435/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO
+4) ABCIXIMAB INJECTION : 1) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 436/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO
+4) ABCIXIMAB INJECTION : 1) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 437/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 437/8 ABCIXIMAB : PLACEBOMismatch found in cell 437/9 1) Dose: 40 mg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total
+2) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 437/11 1) 08-JAN-2004 TO - : 1) 08-JAN-2004 TO -
+2) 08-JAN-2004 TO -Mismatch found in cell 437/12 1) : 1) 
+2)Mismatch found in cell 437/18 Y : Mismatch found in cell 437/19 N : Mismatch found in cell 437/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO
+4) ABCIXIMAB INJECTION : 1) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 483/18  : YMismatch found in cell 483/19  : YMismatch found in cell 483/22 1) PLACEBO
+2) PLACEBO
+3) PLACEBO
+4) ABCIXIMAB INJECTION
+5) ABCIXIMAB : 1) PLACEBO
+) ABCIXIMAB
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 484/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 484/8 PLACEBO : ABCIXIMABMismatch found in cell 484/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: 8.8 mg -
+Freq: - in - -Mismatch found in cell 484/18  : YMismatch found in cell 484/22 1) PLACEBO
+2) PLACEBO
+3) PLACEBO
+4) ABCIXIMAB INJECTION
+5) ABCIXIMAB : 1) PLACEBO
+) ABCIXIMAB
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 485/22 1) PLACEBO
+2) PLACEBO
+3) PLACEBO
+4) ABCIXIMAB INJECTION
+5) ABCIXIMAB : 1) PLACEBO
+) ABCIXIMAB
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 486/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 486/8 ABCIXIMAB : PLACEBOMismatch found in cell 486/9 1) Dose: 8.8 mg -
+Freq: - in - - : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 486/18 Y : Mismatch found in cell 486/22 1) PLACEBO
+2) PLACEBO
+3) PLACEBO
+4) ABCIXIMAB INJECTION
+5) ABCIXIMAB : 1) PLACEBO
+) ABCIXIMAB
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 487/18  : YMismatch found in cell 487/19  : YMismatch found in cell 487/22 1) PLACEBO
+2) PLACEBO
+3) PLACEBO
+4) ABCIXIMAB INJECTION
+5) ABCIXIMAB : 1) PLACEBO
+) ABCIXIMAB
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 488/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 488/8 PLACEBO : ABCIXIMABMismatch found in cell 488/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: 8.8 mg -
+Freq: - in - -Mismatch found in cell 488/18  : YMismatch found in cell 488/22 1) PLACEBO
+2) PLACEBO
+3) PLACEBO
+4) ABCIXIMAB INJECTION
+5) ABCIXIMAB : 1) PLACEBO
+) ABCIXIMAB
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 489/22 1) PLACEBO
+2) PLACEBO
+3) PLACEBO
+4) ABCIXIMAB INJECTION
+5) ABCIXIMAB : 1) PLACEBO
+) ABCIXIMAB
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 490/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 490/8 ABCIXIMAB : PLACEBOMismatch found in cell 490/9 1) Dose: 8.8 mg -
+Freq: - in - - : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 490/18 Y : Mismatch found in cell 490/22 1) PLACEBO
+2) PLACEBO
+3) PLACEBO
+4) ABCIXIMAB INJECTION
+5) ABCIXIMAB : 1) PLACEBO
+) ABCIXIMAB
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 499/18  : YMismatch found in cell 499/19  : YMismatch found in cell 499/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 500/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 500/8 PLACEBO : ABCIXIMABMismatch found in cell 500/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total
+2) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: 7.5 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 30 mg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 500/18  : YMismatch found in cell 500/19  : NMismatch found in cell 500/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 501/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 501/8 ABCIXIMAB : PLACEBOMismatch found in cell 501/9 1) Dose: 7.5 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 30 mg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total
+2) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 501/18 Y : Mismatch found in cell 501/19 N : Mismatch found in cell 501/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 530/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 531/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 535/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE INJECTIONMismatch found in cell 536/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE INJECTIONMismatch found in cell 564/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 565/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 566/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 567/9 1) Dose: 5 IU Intravenous
+Freq: 2 in 1 Total : 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 567/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 568/9 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU Intravenous
+Freq: 2 in 1 TotalMismatch found in cell 568/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 591/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 592/9 1) Dose: 5 IU Intravenous
+Freq: 2 in 1 Total : 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 592/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 593/9 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU Intravenous
+Freq: 2 in 1 TotalMismatch found in cell 593/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 624/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 625/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 626/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 646/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 647/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 693/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 803/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 804/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 805/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 826/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 878/18  : YMismatch found in cell 878/19  : YMismatch found in cell 878/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 879/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 879/8 PLACEBO : ABCIXIMABMismatch found in cell 879/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: 9 mg -
+Freq: 1 in 1 Total
+2) Dose: 16 mg -
+Freq: - in - -Mismatch found in cell 879/11 1) 01-APR-2004 TO - : 1) 01-APR-2004 TO -
+2) 01-APR-2004 TO -Mismatch found in cell 879/12 1) : 1) 
+2)Mismatch found in cell 879/18  : YMismatch found in cell 879/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 880/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 880/8 ABCIXIMAB : PLACEBOMismatch found in cell 880/9 1) Dose: 9 mg -
+Freq: 1 in 1 Total
+2) Dose: 16 mg -
+Freq: - in - - : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 880/11 1) 01-APR-2004 TO -
+2) 01-APR-2004 TO - : 1) 01-APR-2004 TO -Mismatch found in cell 880/12 1) 
+2) : 1)Mismatch found in cell 880/18 Y : Mismatch found in cell 880/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 881/18  : YMismatch found in cell 881/19  : YMismatch found in cell 881/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 882/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 882/8 PLACEBO : ABCIXIMABMismatch found in cell 882/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: 9 mg -
+Freq: 1 in 1 Total
+2) Dose: 16 mg -
+Freq: - in - -Mismatch found in cell 882/11 1) 01-APR-2004 TO - : 1) 01-APR-2004 TO -
+2) 01-APR-2004 TO -Mismatch found in cell 882/12 1) : 1) 
+2)Mismatch found in cell 882/18  : NMismatch found in cell 882/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 883/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 883/8 ABCIXIMAB : PLACEBOMismatch found in cell 883/9 1) Dose: 9 mg -
+Freq: 1 in 1 Total
+2) Dose: 16 mg -
+Freq: - in - - : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 883/11 1) 01-APR-2004 TO -
+2) 01-APR-2004 TO - : 1) 01-APR-2004 TO -Mismatch found in cell 883/12 1) 
+2) : 1)Mismatch found in cell 883/18 N : Mismatch found in cell 883/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 884/18  : YMismatch found in cell 884/19  : YMismatch found in cell 884/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 885/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 885/8 PLACEBO : ABCIXIMABMismatch found in cell 885/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: 9 mg -
+Freq: 1 in 1 Total
+2) Dose: 16 mg -
+Freq: - in - -Mismatch found in cell 885/11 1) 01-APR-2004 TO - : 1) 01-APR-2004 TO -
+2) 01-APR-2004 TO -Mismatch found in cell 885/12 1) : 1) 
+2)Mismatch found in cell 885/18  : YMismatch found in cell 885/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 886/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 886/8 ABCIXIMAB : PLACEBOMismatch found in cell 886/9 1) Dose: 9 mg -
+Freq: 1 in 1 Total
+2) Dose: 16 mg -
+Freq: - in - - : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 886/11 1) 01-APR-2004 TO -
+2) 01-APR-2004 TO - : 1) 01-APR-2004 TO -Mismatch found in cell 886/12 1) 
+2) : 1)Mismatch found in cell 886/18 Y : Mismatch found in cell 886/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 887/18  : YMismatch found in cell 887/19  : YMismatch found in cell 887/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 888/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 888/8 PLACEBO : ABCIXIMABMismatch found in cell 888/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: 9 mg -
+Freq: 1 in 1 Total
+2) Dose: 16 mg -
+Freq: - in - -Mismatch found in cell 888/11 1) 01-APR-2004 TO - : 1) 01-APR-2004 TO -
+2) 01-APR-2004 TO -Mismatch found in cell 888/12 1) : 1) 
+2)Mismatch found in cell 888/18  : NMismatch found in cell 888/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 889/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 889/8 ABCIXIMAB : PLACEBOMismatch found in cell 889/9 1) Dose: 9 mg -
+Freq: 1 in 1 Total
+2) Dose: 16 mg -
+Freq: - in - - : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 889/11 1) 01-APR-2004 TO -
+2) 01-APR-2004 TO - : 1) 01-APR-2004 TO -Mismatch found in cell 889/12 1) 
+2) : 1)Mismatch found in cell 889/18 N : Mismatch found in cell 889/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 890/18  : YMismatch found in cell 890/19  : YMismatch found in cell 890/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 891/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 891/8 PLACEBO : ABCIXIMABMismatch found in cell 891/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: 9 mg -
+Freq: 1 in 1 Total
+2) Dose: 16 mg -
+Freq: - in - -Mismatch found in cell 891/11 1) 01-APR-2004 TO - : 1) 01-APR-2004 TO -
+2) 01-APR-2004 TO -Mismatch found in cell 891/12 1) : 1) 
+2)Mismatch found in cell 891/18  : YMismatch found in cell 891/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 892/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 892/8 ABCIXIMAB : PLACEBOMismatch found in cell 892/9 1) Dose: 9 mg -
+Freq: 1 in 1 Total
+2) Dose: 16 mg -
+Freq: - in - - : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 892/11 1) 01-APR-2004 TO -
+2) 01-APR-2004 TO - : 1) 01-APR-2004 TO -Mismatch found in cell 892/12 1) 
+2) : 1)Mismatch found in cell 892/18 Y : Mismatch found in cell 892/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 909/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 1344/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1345/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1393/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) PLACEBO
+4) PLACEBO : 1) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1394/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) PLACEBO
+4) PLACEBO : 1) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1395/9 1) Dose: 5 IU Intravenous
+Freq: 2 in 1 Total : 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 1395/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) PLACEBO
+4) PLACEBO : 1) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1396/9 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU Intravenous
+Freq: 2 in 1 TotalMismatch found in cell 1396/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) PLACEBO
+4) PLACEBO : 1) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1407/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 1408/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 1494/18  : YMismatch found in cell 1494/19  : YMismatch found in cell 1609/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 1610/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 1664/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1665/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1666/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1729/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1730/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 1730/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1731/9 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 1731/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1732/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1733/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 1733/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1734/9 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 1734/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1735/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1736/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 1736/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1737/9 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 1737/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1738/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1739/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 1739/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1740/9 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 1740/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 1818/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 1819/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 1820/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 1851/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 1852/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 2033/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 2143/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 2260/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 2305/18  : YMismatch found in cell 2305/19  : YMismatch found in cell 2305/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 2306/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 2306/8 PLACEBO : ABCIXIMABMismatch found in cell 2306/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: 12 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 39.7 mg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 2306/11 1) 21-JUN-2005 TO - : 1) 21-JUN-2005 TO -
+2) 21-JUN-2005 TO -Mismatch found in cell 2306/12 1) : 1) 
+2)Mismatch found in cell 2306/18  : YMismatch found in cell 2306/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 2307/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 2307/8 ABCIXIMAB : PLACEBOMismatch found in cell 2307/9 1) Dose: 12 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 39.7 mg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 2307/11 1) 21-JUN-2005 TO -
+2) 21-JUN-2005 TO - : 1) 21-JUN-2005 TO -Mismatch found in cell 2307/12 1) 
+2) : 1)Mismatch found in cell 2307/18 Y : Mismatch found in cell 2307/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 2308/18  : YMismatch found in cell 2308/19  : YMismatch found in cell 2308/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 2309/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 2309/8 PLACEBO : ABCIXIMABMismatch found in cell 2309/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: 12 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 39.7 mg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 2309/11 1) 21-JUN-2005 TO - : 1) 21-JUN-2005 TO -
+2) 21-JUN-2005 TO -Mismatch found in cell 2309/12 1) : 1) 
+2)Mismatch found in cell 2309/18  : YMismatch found in cell 2309/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 2310/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 2310/8 ABCIXIMAB : PLACEBOMismatch found in cell 2310/9 1) Dose: 12 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 39.7 mg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 2310/11 1) 21-JUN-2005 TO -
+2) 21-JUN-2005 TO - : 1) 21-JUN-2005 TO -Mismatch found in cell 2310/12 1) 
+2) : 1)Mismatch found in cell 2310/18 Y : Mismatch found in cell 2310/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 2311/18  : YMismatch found in cell 2311/19  : YMismatch found in cell 2311/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 2312/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 2312/8 PLACEBO : ABCIXIMABMismatch found in cell 2312/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: 12 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 39.7 mg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 2312/11 1) 21-JUN-2005 TO - : 1) 21-JUN-2005 TO -
+2) 21-JUN-2005 TO -Mismatch found in cell 2312/12 1) : 1) 
+2)Mismatch found in cell 2312/18  : YMismatch found in cell 2312/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 2313/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 2313/8 ABCIXIMAB : PLACEBOMismatch found in cell 2313/9 1) Dose: 12 mg Intravenous
+Freq: 1 in 1 Total
+2) Dose: 39.7 mg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 2313/11 1) 21-JUN-2005 TO -
+2) 21-JUN-2005 TO - : 1) 21-JUN-2005 TO -Mismatch found in cell 2313/12 1) 
+2) : 1)Mismatch found in cell 2313/18 Y : Mismatch found in cell 2313/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 2480/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 2481/9 1) Dose: 5 IU Intravenous
+Freq: 2 in 1 Total : 1) Dose: 8.4 mg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 2481/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 2482/9 1) Dose: 8.4 mg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU Intravenous
+Freq: 2 in 1 TotalMismatch found in cell 2482/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 2521/18  : YMismatch found in cell 2521/19  : YMismatch found in cell 2522/18  : YMismatch found in cell 2522/19  : YMismatch found in cell 2523/18  : YMismatch found in cell 2523/19  : YMismatch found in cell 2524/18  : YMismatch found in cell 2524/19  : YMismatch found in cell 2525/18  : YMismatch found in cell 2525/19  : YMismatch found in cell 2555/18  : YMismatch found in cell 2555/19  : YMismatch found in cell 2556/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 2557/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 2558/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 2563/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 2564/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 2565/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 2566/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 2625/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 2626/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 2743/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 2751/18  : YMismatch found in cell 2751/19  : YMismatch found in cell 2751/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION
+4) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 2752/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 2752/8 PLACEBO : ABCIXIMABMismatch found in cell 2752/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Days : 1) Dose: 11.3 mg Intravenous
+Freq: 1 in 1 DaysMismatch found in cell 2752/11 1) 16-DEC-2005 TO 16-DEC-2005 : 1) 16-DEC-2005 TO -Mismatch found in cell 2752/12 1) 0 : 1)Mismatch found in cell 2752/18  : NMismatch found in cell 2752/19  : NMismatch found in cell 2752/20 N : YMismatch found in cell 2752/21 N : YMismatch found in cell 2752/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION
+4) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 2753/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 2753/8 ABCIXIMAB : PLACEBOMismatch found in cell 2753/9 1) Dose: 11.3 mg Intravenous
+Freq: 1 in 1 Days : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 DaysMismatch found in cell 2753/11 1) 16-DEC-2005 TO - : 1) 16-DEC-2005 TO 16-DEC-2005Mismatch found in cell 2753/12 1) : 1) 0Mismatch found in cell 2753/18 N : Mismatch found in cell 2753/19 N : Mismatch found in cell 2753/20 Y : NMismatch found in cell 2753/21 Y : NMismatch found in cell 2753/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION
+4) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 2754/22 1) PLACEBO
+2) PLACEBO
+3) ABCIXIMAB INJECTION
+4) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) PLACEBOMismatch found in cell 2880/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 2881/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 2882/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 2883/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 2884/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 2885/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 2907/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO
+4) ABCIXIMAB INJECTION : 1) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 2908/7 PLACEBO : ABCIXIMAB INJECTIONMismatch found in cell 2908/8 PLACEBO : ABCIXIMABMismatch found in cell 2908/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: 38.4 mg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 2908/18  : YMismatch found in cell 2908/19  : NMismatch found in cell 2908/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO
+4) ABCIXIMAB INJECTION : 1) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 2909/9 1) Dose: .25 mg/kg Intravenous
+Freq: - in - - : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 2909/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO
+4) ABCIXIMAB INJECTION : 1) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 2910/7 ABCIXIMAB INJECTION : PLACEBOMismatch found in cell 2910/8 ABCIXIMAB : PLACEBOMismatch found in cell 2910/9 1) Dose: 38.4 mg Intravenous
+Freq: 1 in 1 Total : 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -Mismatch found in cell 2910/18 Y : Mismatch found in cell 2910/19 N : Mismatch found in cell 2910/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO
+4) ABCIXIMAB INJECTION : 1) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 2933/18  : YMismatch found in cell 2933/19  : YMismatch found in cell 2933/22 1) PLACEBO
+2) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTIONMismatch found in cell 2934/22 1) PLACEBO
+2) ABCIXIMAB INJECTION : 1) PLACEBO
+) ABCIXIMAB INJECTIONMismatch found in cell 3004/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 3005/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 3084/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 3085/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 3339/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 3340/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 3340/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 3341/9 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 3341/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 3342/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 3343/9 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 Total : 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 3343/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 3344/9 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in 1 Total : 1) Dose: 5 IU Intravenous
+Freq: 1 in 1 TotalMismatch found in cell 3344/22 1) ABCIXIMAB INJECTION
+2) PLACEBO
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) PLACEBOMismatch found in cell 3580/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 3581/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 3582/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 3583/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) PLACEBO : 1) ABCIXIMAB INJECTION
+) PLACEBO
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 3747/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 3748/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 3749/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 3787/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 3802/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 4083/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4085/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4104/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4105/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4135/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4136/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4170/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4408/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4409/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4410/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4411/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4412/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4413/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4414/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4415/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4433/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4434/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4435/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4436/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4437/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4452/22 1) ABCIXIMAB UNSPECIFIED
+2) RETEPLASE UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) RETEPLASE UNSPECIFIEDMismatch found in cell 4453/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4454/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4455/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4456/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4467/22 1) PLACEBO
+2) ABCIXIMAB UNSPECIFIED : 1) PLACEBO
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4468/22 1) PLACEBO
+2) ABCIXIMAB UNSPECIFIED : 1) PLACEBO
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4469/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4474/22 1) ABCIXIMAB UNSPECIFIED
+2) RETEPLASE UNSPECIFIED
+3) RETEPLASE UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) RETEPLASE UNSPECIFIED
+) RETEPLASE UNSPECIFIEDMismatch found in cell 4475/22 1) ABCIXIMAB UNSPECIFIED
+2) RETEPLASE UNSPECIFIED
+3) RETEPLASE UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) RETEPLASE UNSPECIFIED
+) RETEPLASE UNSPECIFIEDMismatch found in cell 4476/22 1) ABCIXIMAB UNSPECIFIED
+2) RETEPLASE UNSPECIFIED
+3) RETEPLASE UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) RETEPLASE UNSPECIFIED
+) RETEPLASE UNSPECIFIEDMismatch found in cell 4477/22 1) ABCIXIMAB UNSPECIFIED
+2) RETEPLASE UNSPECIFIED
+3) RETEPLASE UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) RETEPLASE UNSPECIFIED
+) RETEPLASE UNSPECIFIEDMismatch found in cell 4478/22 1) ABCIXIMAB UNSPECIFIED
+2) RETEPLASE UNSPECIFIED
+3) RETEPLASE UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) RETEPLASE UNSPECIFIED
+) RETEPLASE UNSPECIFIEDMismatch found in cell 4479/22 1) ABCIXIMAB UNSPECIFIED
+2) RETEPLASE UNSPECIFIED
+3) RETEPLASE UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) RETEPLASE UNSPECIFIED
+) RETEPLASE UNSPECIFIEDMismatch found in cell 4480/22 1) ABCIXIMAB UNSPECIFIED
+2) RETEPLASE UNSPECIFIED
+3) RETEPLASE UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) RETEPLASE UNSPECIFIED
+) RETEPLASE UNSPECIFIEDMismatch found in cell 4481/22 1) ABCIXIMAB UNSPECIFIED
+2) RETEPLASE UNSPECIFIED
+3) RETEPLASE UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) RETEPLASE UNSPECIFIED
+) RETEPLASE UNSPECIFIEDMismatch found in cell 4482/22 1) ABCIXIMAB UNSPECIFIED
+2) RETEPLASE UNSPECIFIED
+3) RETEPLASE UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) RETEPLASE UNSPECIFIED
+) RETEPLASE UNSPECIFIEDMismatch found in cell 4585/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4590/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4793/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 4794/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 4795/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 4796/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 4797/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 4798/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 4799/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 4800/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 4814/22 1) PLACEBO
+2) ABCIXIMAB UNSPECIFIED : 1) PLACEBO
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4815/22 1) PLACEBO
+2) ABCIXIMAB UNSPECIFIED : 1) PLACEBO
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4816/22 1) PLACEBO
+2) ABCIXIMAB UNSPECIFIED : 1) PLACEBO
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4817/22 1) PLACEBO
+2) ABCIXIMAB UNSPECIFIED : 1) PLACEBO
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4818/22 1) PLACEBO
+2) ABCIXIMAB UNSPECIFIED : 1) PLACEBO
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 4819/22 1) PLACEBO
+2) ABCIXIMAB UNSPECIFIED : 1) PLACEBO
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 5025/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM
+3) TENECTEPLASE
+4) ACETYLSALICYLIC ACID : ) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5028/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM
+3) TENECTEPLASE : ) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5029/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM
+3) TENECTEPLASE : ) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5030/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM
+3) TENECTEPLASE : ) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5031/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM
+3) TENECTEPLASE : ) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5048/22 1) ABCIXIMAB INJECTION
+2) ENOXAPARIN SODIUM
+3) TENECTEPLASE : ) ABCIXIMAB INJECTION
+) ENOXAPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5049/22 1) ABCIXIMAB INJECTION
+2) ENOXAPARIN SODIUM
+3) TENECTEPLASE : ) ABCIXIMAB INJECTION
+) ENOXAPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5050/22 1) ABCIXIMAB INJECTION
+2) ENOXAPARIN SODIUM
+3) TENECTEPLASE : ) ABCIXIMAB INJECTION
+) ENOXAPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5134/22 1) ABCIXIMAB INJECTION
+2) PAROXETINE HYDROCHLORIDE
+3) ACETYLSALICYLIC ACID : 1) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID
+) PAROXETINE HYDROCHLORIDEMismatch found in cell 5224/22 1) PLACEBO
+2) ABCIXIMAB UNSPECIFIED : 1) PLACEBO
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 5225/22 1) PLACEBO
+2) ABCIXIMAB UNSPECIFIED : 1) PLACEBO
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 5226/22 1) PLACEBO
+2) ABCIXIMAB UNSPECIFIED : 1) PLACEBO
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 5227/22 1) PLACEBO
+2) ABCIXIMAB UNSPECIFIED : 1) PLACEBO
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 5233/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 5234/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 5235/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 5236/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 5304/22 1) ABCIXIMAB INJECTION
+2) TENECTEPLASE
+3) ENOXAPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ENOXAPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5305/22 1) ABCIXIMAB INJECTION
+2) TENECTEPLASE
+3) ENOXAPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ENOXAPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5306/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) ENOXAPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) ENOXAPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5307/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) ENOXAPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) ENOXAPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5308/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) ENOXAPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) ENOXAPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5309/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) ENOXAPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) ENOXAPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5310/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) ENOXAPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) ENOXAPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5311/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) ENOXAPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) ENOXAPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5312/22 1) PLACEBO
+2) ABCIXIMAB UNSPECIFIED : 1) PLACEBO
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 5313/22 1) PLACEBO
+2) ABCIXIMAB UNSPECIFIED : 1) PLACEBO
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 5380/22 1) RETEPLASE POWDER FOR INFUSION
+2) WARFARIN SODIUM : ) RETEPLASE POWDER FOR INFUSION
+) WARFARIN SODIUMMismatch found in cell 5463/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5464/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5465/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5466/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5467/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5468/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5469/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5470/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5471/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5472/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5473/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5474/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5475/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5476/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5477/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5478/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5479/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5480/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5485/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 5486/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 5488/22 1) ABCIXIMAB INJECTION
+2) TENECTEPLASE
+3) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5489/22 1) ABCIXIMAB INJECTION
+2) TENECTEPLASE
+3) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5490/22 1) ABCIXIMAB INJECTION
+2) TENECTEPLASE
+3) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5491/22 1) ABCIXIMAB INJECTION
+2) TENECTEPLASE
+3) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5520/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 5521/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 5522/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 5523/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 5606/22 1) ABCIXIMAB INJECTION
+2) TENECTEPLASE
+3) ENOXAPARIN SODIUM
+4) CLOPIDOGREL BISULFATE
+5) HEPARIN SODIUM
+6) ACETYLSALICYLIC ACID : ) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID
+) CLOPIDOGREL BISULFATE
+) ENOXAPARIN SODIUM
+) HEPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5744/22 1) ABCIXIMAB INJECTION
+2) TENECTEPLASE
+3) ENOXAPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ENOXAPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5745/22 1) ABCIXIMAB INJECTION
+2) TENECTEPLASE
+3) ENOXAPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ENOXAPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5746/22 1) ABCIXIMAB INJECTION
+2) TENECTEPLASE
+3) ENOXAPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ENOXAPARIN SODIUM
+) TENECTEPLASEMismatch found in cell 5767/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5768/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5769/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5770/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5771/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5772/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5835/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5858/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5859/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5860/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION--------------------------------------------------------------------
+----------Comparing CIOMS II Line Listing of the I2----------Mismatch found in cell 58/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 59/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 60/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 61/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 62/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 63/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 64/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 65/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 66/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 67/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 68/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 69/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 70/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 71/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 87/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 145/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 146/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 216/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 217/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 218/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 356/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 393/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 478/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 479/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 481/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 530/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 558/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 626/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 633/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 721/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 735/22 1) ABCIXIMAB INJECTION
+2) HEPARIN : ) ABCIXIMAB INJECTION
+) HEPARINMismatch found in cell 736/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 737/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 738/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 769/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 770/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 811/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 826/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 837/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 838/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 839/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 850/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 900/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 913/22 1) ABCIXIMAB INJECTION
+2) ENOXAPARIN : ) ABCIXIMAB INJECTION
+) ENOXAPARINMismatch found in cell 916/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 917/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 918/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 920/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 941/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 942/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1039/22 1) ABCIXIMAB INJECTION
+2) PRASUGREL : ) ABCIXIMAB INJECTION
+) PRASUGRELMismatch found in cell 1040/22 1) ABCIXIMAB INJECTION
+2) PRASUGREL : ) ABCIXIMAB INJECTION
+) PRASUGRELMismatch found in cell 1041/22 1) ABCIXIMAB INJECTION
+2) PRASUGREL : ) ABCIXIMAB INJECTION
+) PRASUGRELMismatch found in cell 1146/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1170/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1217/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1218/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1251/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1252/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1268/22 1) ABCIXIMAB INJECTION
+2) BIVALIRUDIN : ) ABCIXIMAB INJECTION
+) BIVALIRUDINMismatch found in cell 1269/22 1) ABCIXIMAB INJECTION
+2) BIVALIRUDIN : ) ABCIXIMAB INJECTION
+) BIVALIRUDINMismatch found in cell 1270/22 1) ABCIXIMAB INJECTION
+2) BIVALIRUDIN : ) ABCIXIMAB INJECTION
+) BIVALIRUDINMismatch found in cell 1271/22 1) ABCIXIMAB INJECTION
+2) BIVALIRUDIN : ) ABCIXIMAB INJECTION
+) BIVALIRUDINMismatch found in cell 1457/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1520/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM
+3) CLOPIDOGREL
+4) ACETYLSALICYLIC ACID : ) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID
+) CLOPIDOGREL
+) HEPARIN SODIUMMismatch found in cell 1521/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM
+3) CLOPIDOGREL
+4) ACETYLSALICYLIC ACID : ) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID
+) CLOPIDOGREL
+) HEPARIN SODIUMMismatch found in cell 1522/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM
+3) CLOPIDOGREL
+4) ACETYLSALICYLIC ACID : ) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID
+) CLOPIDOGREL
+) HEPARIN SODIUMMismatch found in cell 1523/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM
+3) CLOPIDOGREL
+4) ACETYLSALICYLIC ACID : ) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID
+) CLOPIDOGREL
+) HEPARIN SODIUMMismatch found in cell 1524/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM
+3) CLOPIDOGREL
+4) ACETYLSALICYLIC ACID : ) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID
+) CLOPIDOGREL
+) HEPARIN SODIUMMismatch found in cell 1525/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM
+3) CLOPIDOGREL
+4) ACETYLSALICYLIC ACID : ) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID
+) CLOPIDOGREL
+) HEPARIN SODIUMMismatch found in cell 1526/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM
+3) CLOPIDOGREL
+4) ACETYLSALICYLIC ACID : ) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID
+) CLOPIDOGREL
+) HEPARIN SODIUMMismatch found in cell 1562/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1564/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1569/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1592/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1598/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1634/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1638/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1653/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1654/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1662/22 1) ABCIXIMAB INJECTION
+2) HEPARIN : ) ABCIXIMAB INJECTION
+) HEPARINMismatch found in cell 1678/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1746/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1747/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1748/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1749/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1769/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1776/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1777/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1802/22 1) ABCIXIMAB INJECTION
+2) CLOPIDOGREL BISULFATE
+3) ACETYLSALICYLIC ACID : ) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID
+) CLOPIDOGREL BISULFATEMismatch found in cell 1809/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1810/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1814/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1815/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1840/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1841/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1845/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1846/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1847/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1848/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1851/22 1) ABCIXIMAB INJECTION
+2) HEPARIN : ) ABCIXIMAB INJECTION
+) HEPARINMismatch found in cell 1866/22 1) ABCIXIMAB INJECTION
+2) ACETYLSALICYLIC ACID
+3) CLOPIDOGREL
+4) HEPARIN : ) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID
+) CLOPIDOGREL
+) HEPARINMismatch found in cell 1867/22 1) ABCIXIMAB INJECTION
+2) ACETYLSALICYLIC ACID
+3) CLOPIDOGREL
+4) HEPARIN
+5) TENECTEPLASE : ) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID
+) CLOPIDOGREL
+) HEPARIN
+) TENECTEPLASEMismatch found in cell 1918/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1919/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 1938/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE
+3) HEPARIN
+4) ACETYLSALICYLIC ACID : ) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID
+) HEPARIN
+) RETEPLASEMismatch found in cell 1939/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE
+3) HEPARIN
+4) ACETYLSALICYLIC ACID : ) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID
+) HEPARIN
+) RETEPLASEMismatch found in cell 1985/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 2566/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 2616/9 1) Dose: .25 mg/kg Intravenous
+Freq: 2 in 1 Days
+3) Dose: .125 ug/kg Intravenous
+Freq: - in - - : 1) Dose: .25 mg/kg Intravenous
+Freq: 2 in 1 Days
+2) Dose: .125 ug/kg Intravenous
+Freq: - in - -Mismatch found in cell 2616/11 1) 02-NOV-2010 TO 02-NOV-2010
+3) 02-NOV-2010 TO 02-NOV-2010 : 1) 02-NOV-2010 TO 02-NOV-2010
+2) 02-NOV-2010 TO 02-NOV-2010Mismatch found in cell 2616/12 1) 0
+3) 0 : 1) 0
+2) 0Mismatch found in cell 2617/9 1) Dose: .25 mg/kg Intravenous
+Freq: 2 in 1 Days
+3) Dose: .125 ug/kg Intravenous
+Freq: - in - - : 1) Dose: .25 mg/kg Intravenous
+Freq: 2 in 1 Days
+2) Dose: .125 ug/kg Intravenous
+Freq: - in - -Mismatch found in cell 2617/11 1) 02-NOV-2010 TO 02-NOV-2010
+3) 02-NOV-2010 TO 02-NOV-2010 : 1) 02-NOV-2010 TO 02-NOV-2010
+2) 02-NOV-2010 TO 02-NOV-2010Mismatch found in cell 2617/12 1) 0
+3) 0 : 1) 0
+2) 0Mismatch found in cell 2780/22 1) ABCIXIMAB INJECTION
+2) ACETYLSALICYLIC ACID UNSPECIFIED
+3) HEPARIN : ) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID UNSPECIFIED
+) HEPARINMismatch found in cell 2781/22 1) ABCIXIMAB INJECTION
+2) ACETYLSALICYLIC ACID UNSPECIFIED
+3) HEPARIN : ) ABCIXIMAB INJECTION
+) ACETYLSALICYLIC ACID UNSPECIFIED
+) HEPARINMismatch found in cell 2782/22 1) ABCIXIMAB INJECTION
+2) HEPARIN : ) ABCIXIMAB INJECTION
+) HEPARINMismatch found in cell 2783/22 1) ABCIXIMAB INJECTION
+2) HEPARIN : ) ABCIXIMAB INJECTION
+) HEPARINMismatch found in cell 2938/9 1) Dose: - - Intravenous
+Freq: - in - -
+3) Dose: - - Intravenous
+Freq: - in - - : 1) Dose: - - Intravenous
+Freq: - in - -
+2) Dose: - - Intravenous
+Freq: - in - -Mismatch found in cell 2938/11 1) - TO 2006
+3) - : 1) - TO 2006
+2) -Mismatch found in cell 2938/12 1) 
+3) : 1) 
+2)Mismatch found in cell 3165/9 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+4) Dose: - - Other
+Freq: - in 12 Hours : 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+2) Dose: - - Other
+Freq: - in 12 HoursMismatch found in cell 3165/11 1) -
+4) - : 1) -
+2) -Mismatch found in cell 3165/12 1) 
+4) : 1) 
+2)Mismatch found in cell 3166/9 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+4) Dose: - - Other
+Freq: - in 12 Hours : 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+2) Dose: - - Other
+Freq: - in 12 HoursMismatch found in cell 3166/11 1) -
+4) - : 1) -
+2) -Mismatch found in cell 3166/12 1) 
+4) : 1) 
+2)Mismatch found in cell 3167/9 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+4) Dose: - - Other
+Freq: - in 12 Hours : 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+2) Dose: - - Other
+Freq: - in 12 HoursMismatch found in cell 3167/11 1) -
+4) - : 1) -
+2) -Mismatch found in cell 3167/12 1) 
+4) : 1) 
+2)Mismatch found in cell 3168/9 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+4) Dose: - - Other
+Freq: - in 12 Hours : 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+2) Dose: - - Other
+Freq: - in 12 HoursMismatch found in cell 3168/11 1) -
+4) - : 1) -
+2) -Mismatch found in cell 3168/12 1) 
+4) : 1) 
+2)Mismatch found in cell 3169/9 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+4) Dose: - - Other
+Freq: - in 12 Hours : 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+2) Dose: - - Other
+Freq: - in 12 HoursMismatch found in cell 3169/11 1) -
+4) - : 1) -
+2) -Mismatch found in cell 3169/12 1) 
+4) : 1) 
+2)Mismatch found in cell 3229/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 3230/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 3250/9 1) Dose: 20 mg Intravenous
+Freq: - in - -
+3) Dose: .6 - Intravenous
+Freq: - in - - : 1) Dose: 20 mg Intravenous
+Freq: - in - -
+2) Dose: .6 - Intravenous
+Freq: - in - -Mismatch found in cell 3250/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 3250/12 1) 
+3) : 1) 
+2)Mismatch found in cell 3251/9 1) Dose: 20 mg Intravenous
+Freq: - in - -
+3) Dose: .6 - Intravenous
+Freq: - in - - : 1) Dose: 20 mg Intravenous
+Freq: - in - -
+2) Dose: .6 - Intravenous
+Freq: - in - -Mismatch found in cell 3251/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 3251/12 1) 
+3) : 1) 
+2)Mismatch found in cell 3340/9 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+3) Dose: .125 ug/kg/min Intravenous
+Freq: - in - - : 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+2) Dose: .125 ug/kg/min Intravenous
+Freq: - in - -Mismatch found in cell 3340/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 3340/12 1) 
+3) : 1) 
+2)Mismatch found in cell 3341/9 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+3) Dose: .125 ug/kg/min Intravenous
+Freq: - in - - : 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+2) Dose: .125 ug/kg/min Intravenous
+Freq: - in - -Mismatch found in cell 3341/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 3341/12 1) 
+3) : 1) 
+2)Mismatch found in cell 3342/9 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+3) Dose: .125 ug/kg/min Intravenous
+Freq: - in - - : 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+2) Dose: .125 ug/kg/min Intravenous
+Freq: - in - -Mismatch found in cell 3342/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 3342/12 1) 
+3) : 1) 
+2)Mismatch found in cell 3343/9 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+3) Dose: .125 ug/kg/min Intravenous
+Freq: - in - - : 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+2) Dose: .125 ug/kg/min Intravenous
+Freq: - in - -Mismatch found in cell 3343/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 3343/12 1) 
+3) : 1) 
+2)Mismatch found in cell 3446/9 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+4) Dose: .125 ug/kg/min Intravenous
+Freq: - in - - : 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+2) Dose: .125 ug/kg/min Intravenous
+Freq: - in - -Mismatch found in cell 3446/11 1) -
+4) - : 1) -
+2) -Mismatch found in cell 3446/12 1) 
+4) : 1) 
+2)Mismatch found in cell 3466/10  : 1) UnknownMismatch found in cell 3467/10  : 1) UnknownMismatch found in cell 3468/10  : 1) UnknownMismatch found in cell 3469/10  : 1) UnknownMismatch found in cell 3470/10  : 1) UnknownMismatch found in cell 3471/10  : 1) UnknownMismatch found in cell 3472/10  : 1) UnknownMismatch found in cell 3473/10  : 1) UnknownMismatch found in cell 3476/10  : 1) UnknownMismatch found in cell 3477/10  : 1) UnknownMismatch found in cell 3478/10  : 1) UnknownMismatch found in cell 3479/10  : 1) UnknownMismatch found in cell 3480/10  : 1) UnknownMismatch found in cell 3481/10  : 1) UnknownMismatch found in cell 3482/10  : 1) UnknownMismatch found in cell 3483/10  : 1) UnknownMismatch found in cell 3484/10  : 1) UnknownMismatch found in cell 3485/10  : 1) UnknownMismatch found in cell 3486/10  : 1) UnknownMismatch found in cell 3487/10  : 1) UnknownMismatch found in cell 3488/10  : 1) UnknownMismatch found in cell 3489/10  : 1) UnknownMismatch found in cell 3558/9 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in - -
+4) Dose: .125 ug/kg/min Intravenous
+Freq: - in - - : 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in - -
+2) Dose: .125 ug/kg/min Intravenous
+Freq: - in - -Mismatch found in cell 3558/11 1) -
+4) - : 1) -
+2) -Mismatch found in cell 3558/12 1) 
+4) : 1) 
+2)Mismatch found in cell 3559/9 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in - -
+4) Dose: .125 ug/kg/min Intravenous
+Freq: - in - - : 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in - -
+2) Dose: .125 ug/kg/min Intravenous
+Freq: - in - -Mismatch found in cell 3559/11 1) -
+4) - : 1) -
+2) -Mismatch found in cell 3559/12 1) 
+4) : 1) 
+2)Mismatch found in cell 3560/9 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in - -
+4) Dose: .125 ug/kg/min Intravenous
+Freq: - in - - : 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in - -
+2) Dose: .125 ug/kg/min Intravenous
+Freq: - in - -Mismatch found in cell 3560/11 1) -
+4) - : 1) -
+2) -Mismatch found in cell 3560/12 1) 
+4) : 1) 
+2)Mismatch found in cell 3561/9 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in - -
+4) Dose: .125 ug/kg/min Intravenous
+Freq: - in - - : 1) Dose: .25 mg/kg Intravenous
+Freq: 1 in - -
+2) Dose: .125 ug/kg/min Intravenous
+Freq: - in - -Mismatch found in cell 3561/11 1) -
+4) - : 1) -
+2) -Mismatch found in cell 3561/12 1) 
+4) : 1) 
+2)Mismatch found in cell 3562/9 1) Dose: - - Intravenous
+Freq: - in - -
+3) Dose: - - Intravenous
+Freq: - in - - : 1) Dose: - - Intravenous
+Freq: - in - -
+2) Dose: - - Intravenous
+Freq: - in - -Mismatch found in cell 3562/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 3562/12 1) 
+3) : 1) 
+2)Mismatch found in cell 3563/9 1) Dose: - - Intravenous
+Freq: - in - -
+3) Dose: - - Intravenous
+Freq: - in - - : 1) Dose: - - Intravenous
+Freq: - in - -
+2) Dose: - - Intravenous
+Freq: - in - -Mismatch found in cell 3563/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 3563/12 1) 
+3) : 1) 
+2)Mismatch found in cell 3564/9 1) Dose: - - Intravenous
+Freq: - in - -
+3) Dose: - - Intravenous
+Freq: - in - - : 1) Dose: - - Intravenous
+Freq: - in - -
+2) Dose: - - Intravenous
+Freq: - in - -Mismatch found in cell 3564/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 3564/12 1) 
+3) : 1) 
+2)Mismatch found in cell 3565/9 1) Dose: - - Intravenous
+Freq: - in - -
+3) Dose: - - Intravenous
+Freq: - in - - : 1) Dose: - - Intravenous
+Freq: - in - -
+2) Dose: - - Intravenous
+Freq: - in - -Mismatch found in cell 3565/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 3565/12 1) 
+3) : 1) 
+2)Mismatch found in cell 3566/9 1) Dose: - - Intravenous
+Freq: - in - -
+3) Dose: - - Intravenous
+Freq: - in - - : 1) Dose: - - Intravenous
+Freq: - in - -
+2) Dose: - - Intravenous
+Freq: - in - -Mismatch found in cell 3566/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 3566/12 1) 
+3) : 1) 
+2)Mismatch found in cell 3567/9 1) Dose: - - Intravenous
+Freq: - in - -
+3) Dose: - - Intravenous
+Freq: - in - - : 1) Dose: - - Intravenous
+Freq: - in - -
+2) Dose: - - Intravenous
+Freq: - in - -Mismatch found in cell 3567/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 3567/12 1) 
+3) : 1) 
+2)Mismatch found in cell 3581/9 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+4) Dose: .125 ug/kg/min Intravenous
+Freq: - in - - : 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+2) Dose: .125 ug/kg/min Intravenous
+Freq: - in - -Mismatch found in cell 3581/11 1) -
+4) - : 1) -
+2) -Mismatch found in cell 3581/12 1) 
+4) : 1) 
+2)Mismatch found in cell 3582/9 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+4) Dose: .125 ug/kg/min Intravenous
+Freq: - in - - : 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+2) Dose: .125 ug/kg/min Intravenous
+Freq: - in - -Mismatch found in cell 3582/11 1) -
+4) - : 1) -
+2) -Mismatch found in cell 3582/12 1) 
+4) : 1) 
+2)Mismatch found in cell 3583/9 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+4) Dose: .125 ug/kg/min Intravenous
+Freq: - in - - : 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+2) Dose: .125 ug/kg/min Intravenous
+Freq: - in - -Mismatch found in cell 3583/11 1) -
+4) - : 1) -
+2) -Mismatch found in cell 3583/12 1) 
+4) : 1) 
+2)Mismatch found in cell 3584/9 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+4) Dose: .125 ug/kg/min Intravenous
+Freq: - in - - : 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+2) Dose: .125 ug/kg/min Intravenous
+Freq: - in - -Mismatch found in cell 3584/11 1) -
+4) - : 1) -
+2) -Mismatch found in cell 3584/12 1) 
+4) : 1) 
+2)Mismatch found in cell 4021/9 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+3) Dose: .125 ug/kg/min Intravenous
+Freq: - in - - : 1) Dose: .25 mg/kg Intravenous
+Freq: - in - -
+2) Dose: .125 ug/kg/min Intravenous
+Freq: - in - -Mismatch found in cell 4021/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4021/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4141/9 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4141/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4141/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4142/9 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4142/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4142/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4143/9 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4143/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4143/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4144/9 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4144/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4144/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4145/9 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4145/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4145/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4180/9 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4180/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4180/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4181/9 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4181/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4181/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4182/9 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4182/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4182/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4183/9 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4183/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4183/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4184/9 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4184/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4184/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4185/9 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4185/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4185/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4186/9 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4186/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4186/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4187/9 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4187/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4187/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4188/9 1) Dose: 6 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 6 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4188/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4188/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4189/9 1) Dose: 6 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 6 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4189/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4189/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4190/9 1) Dose: 6 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 6 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4190/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4190/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4191/9 1) Dose: 6 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 6 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4191/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4191/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4195/9 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4195/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4195/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4196/9 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4196/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4196/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4197/9 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4197/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4197/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4198/9 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 4198/11 1) -
+3) - : 1) -
+2) -Mismatch found in cell 4198/12 1) 
+3) : 1) 
+2)Mismatch found in cell 4212/1 20170410970 (1) : 20170410970 (2)Mismatch found in cell 4212/8 REOPRO : ABCIXIMABMismatch found in cell 4212/9 1) Dose: 6.8 ml Intracoronary
+Freq: - in - - : 1) Dose: 6.8 ml Intravenous
+Freq: - in - -Mismatch found in cell 4314/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4513/22 1) RETEPLASE UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) RETEPLASE UNSPECIFIEDMismatch found in cell 4514/22 1) RETEPLASE UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) RETEPLASE UNSPECIFIEDMismatch found in cell 4515/22 1) RETEPLASE UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) RETEPLASE UNSPECIFIEDMismatch found in cell 4516/22 1) RETEPLASE UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) RETEPLASE UNSPECIFIEDMismatch found in cell 4517/22 1) RETEPLASE UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) RETEPLASE UNSPECIFIEDMismatch found in cell 4530/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN SODIUM : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN SODIUMMismatch found in cell 4531/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) HEPARIN SODIUMMismatch found in cell 4540/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4541/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4581/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4582/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4583/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4584/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4585/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4586/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4624/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4648/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4649/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4704/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) HEPARIN SODIUMMismatch found in cell 4705/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4748/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) HEPARIN SODIUMMismatch found in cell 4749/9 1) Dose: - - Intravenous drip
+Freq: - in - - : 1) Dose: - - Intravenous bolus
+Freq: - in - -Mismatch found in cell 4749/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUMMismatch found in cell 4750/9 1) Dose: - - Intravenous bolus
+Freq: - in - - : 1) Dose: - - Intravenous drip
+Freq: - in - -Mismatch found in cell 4750/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUMMismatch found in cell 4751/9 1) Dose: - - Intravenous drip
+Freq: - in - - : 1) Dose: - - Intravenous bolus
+Freq: - in - -Mismatch found in cell 4751/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUMMismatch found in cell 4752/9 1) Dose: - - Intravenous bolus
+Freq: - in - - : 1) Dose: - - Intravenous drip
+Freq: - in - -Mismatch found in cell 4752/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUMMismatch found in cell 4754/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4928/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4929/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4935/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 4936/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 4937/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 4940/22 1) ABCIXIMAB INJECTION
+2) RETEPLASE POWDER FOR INFUSION
+3) HEPARIN SODIUM
+4) ENOXAPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ENOXAPARIN SODIUM
+) HEPARIN SODIUM
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 4945/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4946/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4947/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4948/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4949/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4950/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4951/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4952/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4953/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 4958/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) HEPARIN : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARINMismatch found in cell 4959/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) HEPARIN : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARINMismatch found in cell 4960/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) HEPARIN : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARINMismatch found in cell 4961/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) HEPARIN : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARINMismatch found in cell 4962/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) HEPARIN : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARINMismatch found in cell 4963/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) HEPARIN : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARINMismatch found in cell 4964/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 4965/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 4966/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 4967/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 5099/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5110/22 1) RETEPLASE POWDER FOR INFUSION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) RETEPLASE POWDER FOR INFUSIONMismatch found in cell 5113/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUMMismatch found in cell 5114/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION
+3) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTION
+) HEPARIN SODIUMMismatch found in cell 5125/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5186/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5187/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5188/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5189/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5195/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5228/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 5229/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 5230/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 5231/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 5249/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5251/10  : 1) LY314356Mismatch found in cell 5252/10  : 1) LY314356Mismatch found in cell 5253/10  : 1) LY314356Mismatch found in cell 5254/10  : 1) LY314356Mismatch found in cell 5255/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) HEPARIN SODIUMMismatch found in cell 5257/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5309/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) HEPARIN SODIUMMismatch found in cell 5345/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5350/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5351/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5371/9 1) Dose: 18.8 mg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: 2.86 mg Intravenous drip
+Freq: 1 in 1 As requiredMismatch found in cell 5371/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 5372/9 1) Dose: 2.86 mg Intravenous drip
+Freq: 1 in 1 As required : 1) Dose: 18.8 mg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 5372/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 5376/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 5377/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 5378/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 5379/22 1) ABCIXIMAB INJECTION
+2) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTION
+) ABCIXIMAB INJECTIONMismatch found in cell 5431/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5432/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5449/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5547/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5574/22 1) ABCIXIMAB INJECTION
+2) HEPARIN SODIUM : ) ABCIXIMAB INJECTION
+) HEPARIN SODIUMMismatch found in cell 5579/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5656/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5657/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5658/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5659/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5660/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5677/22 1) ABCIXIMAB INJECTION
+2) HEPARIN : ) ABCIXIMAB INJECTION
+) HEPARINMismatch found in cell 5678/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5679/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5680/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5681/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5684/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5709/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5804/22 1) ABCIXIMAB INJECTION
+2) HEPARIN : ) ABCIXIMAB INJECTION
+) HEPARINMismatch found in cell 5805/22 1) ABCIXIMAB INJECTION
+2) HEPARIN : ) ABCIXIMAB INJECTION
+) HEPARINMismatch found in cell 5806/22 1) ABCIXIMAB INJECTION
+2) HEPARIN : ) ABCIXIMAB INJECTION
+) HEPARINMismatch found in cell 5807/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5811/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5812/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5815/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5822/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5869/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5931/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5932/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5933/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5934/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 5935/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 6005/22 1) ABCIXIMAB INJECTION
+2) CLOPIDOGREL : ) ABCIXIMAB INJECTION
+) CLOPIDOGRELMismatch found in cell 6006/22 1) ABCIXIMAB INJECTION
+2) CLOPIDOGREL : ) ABCIXIMAB INJECTION
+) CLOPIDOGRELMismatch found in cell 6030/22 1) ABCIXIMAB INJECTION
+2) PRAVASTATIN
+3) CLOPIDOGREL BISULFATE : ) ABCIXIMAB INJECTION
+) CLOPIDOGREL BISULFATE
+) PRAVASTATINMismatch found in cell 6032/22 1) ABCIXIMAB INJECTION
+2) ENOXAPARIN SODIUM
+3) PREDNISONE : ) ABCIXIMAB INJECTION
+) ENOXAPARIN SODIUM
+) PREDNISONEMismatch found in cell 6109/22 1) ABCIXIMAB INJECTION : ) ABCIXIMAB INJECTIONMismatch found in cell 6169/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN SODIUM : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN SODIUMMismatch found in cell 6170/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN SODIUM : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN SODIUMMismatch found in cell 6171/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN SODIUM : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN SODIUMMismatch found in cell 6172/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN SODIUM : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN SODIUMMismatch found in cell 6173/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 6472/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 6473/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 6740/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 6741/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 6751/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+6) HEPARIN
+10) HEPARIN
+11) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) HEPARIN
+) HEPARINMismatch found in cell 6752/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+6) HEPARIN
+10) HEPARIN
+11) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) HEPARIN
+) HEPARINMismatch found in cell 6753/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+6) HEPARIN
+10) HEPARIN
+11) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) HEPARIN
+) HEPARINMismatch found in cell 6974/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 6975/22 1) ABCIXIMAB UNSPECIFIED
+2) ACETYLSALICYLIC ACID
+3) HEPARIN
+4) HEPARIN
+8) ACETYLSALICYLIC ACID : ) ABCIXIMAB UNSPECIFIED
+) ACETYLSALICYLIC ACID
+) ACETYLSALICYLIC ACID
+) HEPARIN
+) HEPARINMismatch found in cell 6976/22 1) ABCIXIMAB UNSPECIFIED
+2) ACETYLSALICYLIC ACID
+3) HEPARIN
+4) HEPARIN
+8) ACETYLSALICYLIC ACID : ) ABCIXIMAB UNSPECIFIED
+) ACETYLSALICYLIC ACID
+) ACETYLSALICYLIC ACID
+) HEPARIN
+) HEPARINMismatch found in cell 6977/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 7033/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7034/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7092/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7140/22 1) ABCIXIMAB UNSPECIFIED
+2) ALTEPLASE : ) ABCIXIMAB UNSPECIFIED
+) ALTEPLASEMismatch found in cell 7141/22 1) ABCIXIMAB UNSPECIFIED
+2) ALTEPLASE : ) ABCIXIMAB UNSPECIFIED
+) ALTEPLASEMismatch found in cell 7142/22 1) ABCIXIMAB UNSPECIFIED
+2) ALTEPLASE : ) ABCIXIMAB UNSPECIFIED
+) ALTEPLASEMismatch found in cell 7199/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 7200/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 7201/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 7202/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 7203/22 1) ABCIXIMAB UNSPECIFIED
+2) LIDOCAINE
+3) LIDOCAINE : ) ABCIXIMAB UNSPECIFIED
+) LIDOCAINE
+) LIDOCAINEMismatch found in cell 7204/22 1) ABCIXIMAB UNSPECIFIED
+2) LIDOCAINE
+3) LIDOCAINE : ) ABCIXIMAB UNSPECIFIED
+) LIDOCAINE
+) LIDOCAINEMismatch found in cell 7205/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE
+6) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 7206/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE
+6) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 7207/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE
+6) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 7208/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE
+6) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 7240/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7241/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7243/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) ACETYLSALICYLIC ACID
+4) ALTEPLASE : ) ABCIXIMAB UNSPECIFIED
+) ACETYLSALICYLIC ACID
+) ALTEPLASE
+) HEPARINMismatch found in cell 7244/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7245/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7246/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE HYDROCHLORIDE
+3) ACETYLSALICYLIC ACID
+5) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ACETYLSALICYLIC ACID
+) HEPARIN
+) TICLOPIDINE HYDROCHLORIDEMismatch found in cell 7247/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE HYDROCHLORIDE
+3) ACETYLSALICYLIC ACID
+5) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ACETYLSALICYLIC ACID
+) HEPARIN
+) TICLOPIDINE HYDROCHLORIDEMismatch found in cell 7252/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7253/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 7254/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 7255/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7256/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 7257/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7258/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 7259/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 7316/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7317/22 1) ABCIXIMAB UNSPECIFIED
+2) ACETYLSALICYLIC ACID
+3) HEPARIN
+5) TICLOPIDINE
+6) ACETYLSALICYLIC ACID : ) ABCIXIMAB UNSPECIFIED
+) ACETYLSALICYLIC ACID
+) ACETYLSALICYLIC ACID
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 7318/22 1) ABCIXIMAB UNSPECIFIED
+2) ACETYLSALICYLIC ACID
+3) HEPARIN
+5) TICLOPIDINE
+6) ACETYLSALICYLIC ACID : ) ABCIXIMAB UNSPECIFIED
+) ACETYLSALICYLIC ACID
+) ACETYLSALICYLIC ACID
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 7319/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 7320/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 7321/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7322/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7323/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7373/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7374/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 7375/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 7376/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 7377/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) ACETYLSALICYLIC ACID : ) ABCIXIMAB UNSPECIFIED
+) ACETYLSALICYLIC ACID
+) HEPARINMismatch found in cell 7378/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) ACETYLSALICYLIC ACID : ) ABCIXIMAB UNSPECIFIED
+) ACETYLSALICYLIC ACID
+) HEPARINMismatch found in cell 7379/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) ACETYLSALICYLIC ACID : ) ABCIXIMAB UNSPECIFIED
+) ACETYLSALICYLIC ACID
+) HEPARINMismatch found in cell 7380/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) ACETYLSALICYLIC ACID : ) ABCIXIMAB UNSPECIFIED
+) ACETYLSALICYLIC ACID
+) HEPARINMismatch found in cell 7381/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 7382/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 7383/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7384/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7385/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7386/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7453/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 7454/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 7568/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) ABCIXIMAB UNSPECIFIED
+5) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARINMismatch found in cell 7569/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) ABCIXIMAB UNSPECIFIED
+5) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARINMismatch found in cell 7570/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 7571/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7572/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) UROKINASE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) UROKINASEMismatch found in cell 7573/22 1) ABCIXIMAB UNSPECIFIED
+7) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 7842/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7843/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 7844/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 7845/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE
+8) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 7939/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 7940/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 7941/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 7942/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 7943/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 8029/22 1) ABCIXIMAB UNSPECIFIED
+2) ENOXAPARIN
+5) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) ENOXAPARIN
+) TICLOPIDINEMismatch found in cell 8030/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8031/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8032/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8033/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8034/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8035/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8036/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8153/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8154/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8155/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8156/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8157/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8158/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8159/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8165/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8166/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8167/22 1) ABCIXIMAB UNSPECIFIED
+2) UROKINASE
+3) UROKINASE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) UROKINASE
+) UROKINASEMismatch found in cell 8225/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE HYDROCHLORIDE : ) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINE HYDROCHLORIDEMismatch found in cell 8226/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) STREPTOKINASE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) STREPTOKINASEMismatch found in cell 8282/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE HYDROCHLORIDE
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE HYDROCHLORIDEMismatch found in cell 8283/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8284/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8285/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8286/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8408/22 1) ABCIXIMAB UNSPECIFIED
+10) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8409/22 1) ABCIXIMAB UNSPECIFIED
+10) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8410/22 1) ABCIXIMAB UNSPECIFIED
+10) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8411/22 1) ABCIXIMAB UNSPECIFIED
+10) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8412/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8413/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8414/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8415/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8416/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8417/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8418/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8419/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8420/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8421/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8470/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8471/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8472/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8473/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8474/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8475/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8476/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8477/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8478/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8479/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 8480/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+6) CONTRAST MEDIA : ) ABCIXIMAB UNSPECIFIED
+) CONTRAST MEDIA
+) HEPARINMismatch found in cell 8481/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+6) CONTRAST MEDIA : ) ABCIXIMAB UNSPECIFIED
+) CONTRAST MEDIA
+) HEPARINMismatch found in cell 8482/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+6) CONTRAST MEDIA : ) ABCIXIMAB UNSPECIFIED
+) CONTRAST MEDIA
+) HEPARINMismatch found in cell 8483/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+6) CONTRAST MEDIA : ) ABCIXIMAB UNSPECIFIED
+) CONTRAST MEDIA
+) HEPARINMismatch found in cell 8487/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8488/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8489/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8490/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8491/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8496/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE
+5) WARFARIN SODIUM : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE
+) WARFARIN SODIUMMismatch found in cell 8497/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE
+5) WARFARIN SODIUM : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE
+) WARFARIN SODIUMMismatch found in cell 8498/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8499/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8500/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8610/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8611/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8612/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8613/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8614/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8615/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8720/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8721/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE
+4) WARFARIN SODIUM
+5) ALL OTHER THERAPEUTIC PRODUCTS
+6) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ALL OTHER THERAPEUTIC PRODUCTS
+) HEPARIN
+) TICLOPIDINE
+) WARFARIN SODIUMMismatch found in cell 8722/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE
+4) WARFARIN SODIUM
+5) ALL OTHER THERAPEUTIC PRODUCTS
+6) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ALL OTHER THERAPEUTIC PRODUCTS
+) HEPARIN
+) TICLOPIDINE
+) WARFARIN SODIUMMismatch found in cell 8723/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE HYDROCHLORIDE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE HYDROCHLORIDEMismatch found in cell 8724/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE HYDROCHLORIDE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE HYDROCHLORIDEMismatch found in cell 8725/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE HYDROCHLORIDE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE HYDROCHLORIDEMismatch found in cell 8726/22 1) ABCIXIMAB UNSPECIFIED
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8727/22 1) ABCIXIMAB UNSPECIFIED
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8728/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE HYDROCHLORIDE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE HYDROCHLORIDEMismatch found in cell 8729/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE HYDROCHLORIDE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE HYDROCHLORIDEMismatch found in cell 8730/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE HYDROCHLORIDE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE HYDROCHLORIDEMismatch found in cell 8731/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE HYDROCHLORIDE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE HYDROCHLORIDEMismatch found in cell 8732/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE HYDROCHLORIDE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE HYDROCHLORIDEMismatch found in cell 8779/22 1) ABCIXIMAB UNSPECIFIED
+6) CONTRAST MEDIA : ) ABCIXIMAB UNSPECIFIED
+) CONTRAST MEDIAMismatch found in cell 8780/22 1) ABCIXIMAB UNSPECIFIED
+6) CONTRAST MEDIA : ) ABCIXIMAB UNSPECIFIED
+) CONTRAST MEDIAMismatch found in cell 8781/22 1) ABCIXIMAB UNSPECIFIED
+6) CONTRAST MEDIA : ) ABCIXIMAB UNSPECIFIED
+) CONTRAST MEDIAMismatch found in cell 8782/22 1) ABCIXIMAB UNSPECIFIED
+6) CONTRAST MEDIA : ) ABCIXIMAB UNSPECIFIED
+) CONTRAST MEDIAMismatch found in cell 8783/22 1) ABCIXIMAB UNSPECIFIED
+6) CONTRAST MEDIA : ) ABCIXIMAB UNSPECIFIED
+) CONTRAST MEDIAMismatch found in cell 8784/22 1) ABCIXIMAB UNSPECIFIED
+3) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8785/22 1) ABCIXIMAB UNSPECIFIED
+3) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8786/22 1) ABCIXIMAB UNSPECIFIED
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8787/22 1) ABCIXIMAB UNSPECIFIED
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 8788/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+5) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8789/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+5) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8790/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+5) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 8791/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) WARFARIN SODIUM : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) WARFARIN SODIUMMismatch found in cell 8792/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) WARFARIN SODIUM : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) WARFARIN SODIUMMismatch found in cell 8793/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) WARFARIN SODIUM : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) WARFARIN SODIUMMismatch found in cell 8836/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8837/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8838/22 1) ABCIXIMAB UNSPECIFIED
+2) PROMETHAZINE
+3) MORPHINE : ) ABCIXIMAB UNSPECIFIED
+) MORPHINE
+) PROMETHAZINEMismatch found in cell 8839/22 1) ABCIXIMAB UNSPECIFIED
+2) PROMETHAZINE
+3) MORPHINE : ) ABCIXIMAB UNSPECIFIED
+) MORPHINE
+) PROMETHAZINEMismatch found in cell 8840/22 1) ABCIXIMAB UNSPECIFIED
+2) PROMETHAZINE
+3) MORPHINE : ) ABCIXIMAB UNSPECIFIED
+) MORPHINE
+) PROMETHAZINEMismatch found in cell 8841/20 N : YMismatch found in cell 8841/21 N : YMismatch found in cell 8841/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8842/20 Y : NMismatch found in cell 8842/21 Y : NMismatch found in cell 8842/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8843/22 1) ABCIXIMAB UNSPECIFIED
+2) ALTEPLASE
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ALTEPLASE
+) HEPARINMismatch found in cell 8844/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 8845/22 1) ABCIXIMAB UNSPECIFIED
+2) UROKINASE
+3) HEPARIN
+5) TICLOPIDINE
+6) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE
+) UROKINASEMismatch found in cell 8846/22 1) ABCIXIMAB UNSPECIFIED
+2) UROKINASE
+3) HEPARIN
+5) TICLOPIDINE
+6) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE
+) UROKINASEMismatch found in cell 8847/22 1) ABCIXIMAB UNSPECIFIED
+2) UROKINASE
+3) HEPARIN
+5) TICLOPIDINE
+6) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE
+) UROKINASEMismatch found in cell 8848/22 1) ABCIXIMAB UNSPECIFIED
+2) UROKINASE
+3) HEPARIN
+5) TICLOPIDINE
+6) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE
+) UROKINASEMismatch found in cell 8849/20 N : YMismatch found in cell 8849/21 N : YMismatch found in cell 8849/22 1) ABCIXIMAB UNSPECIFIED
+2) UROKINASE
+3) HEPARIN
+5) TICLOPIDINE
+6) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE
+) UROKINASEMismatch found in cell 8850/20 Y : NMismatch found in cell 8850/21 Y : NMismatch found in cell 8850/22 1) ABCIXIMAB UNSPECIFIED
+2) UROKINASE
+3) HEPARIN
+5) TICLOPIDINE
+6) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE
+) UROKINASEMismatch found in cell 8851/22 1) ABCIXIMAB UNSPECIFIED
+2) UROKINASE
+3) HEPARIN
+5) TICLOPIDINE
+6) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE
+) UROKINASEMismatch found in cell 8852/22 1) ABCIXIMAB UNSPECIFIED
+2) UROKINASE
+3) HEPARIN
+5) TICLOPIDINE
+6) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE
+) UROKINASEMismatch found in cell 8853/22 1) ABCIXIMAB UNSPECIFIED
+2) UROKINASE
+3) HEPARIN
+5) TICLOPIDINE
+6) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE
+) UROKINASEMismatch found in cell 8854/22 1) ABCIXIMAB UNSPECIFIED
+2) UROKINASE
+3) HEPARIN
+5) TICLOPIDINE
+6) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE
+) UROKINASEMismatch found in cell 8855/20 N : YMismatch found in cell 8855/21 N : YMismatch found in cell 8855/22 1) ABCIXIMAB UNSPECIFIED
+2) UROKINASE
+3) HEPARIN
+5) TICLOPIDINE
+6) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE
+) UROKINASEMismatch found in cell 8856/20 Y : NMismatch found in cell 8856/21 Y : NMismatch found in cell 8856/22 1) ABCIXIMAB UNSPECIFIED
+2) UROKINASE
+3) HEPARIN
+5) TICLOPIDINE
+6) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINE
+) UROKINASEMismatch found in cell 9162/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9163/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9170/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+11) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9171/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+11) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9172/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9239/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9240/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9241/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9242/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9243/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9306/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) TICLOPIDINE
+4) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9307/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) TICLOPIDINE
+4) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9308/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) TICLOPIDINE
+4) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9309/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) TICLOPIDINE
+4) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9310/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9311/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9312/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9452/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9453/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9455/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9456/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9457/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9458/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9459/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9460/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9461/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9462/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9463/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9464/22 1) ABCIXIMAB UNSPECIFIED
+3) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9465/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9466/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9467/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9544/22 1) ABCIXIMAB UNSPECIFIED
+4) HEPARIN
+5) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9545/22 1) ABCIXIMAB UNSPECIFIED
+4) HEPARIN
+5) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9546/22 1) ABCIXIMAB UNSPECIFIED
+3) IOVERSOL : ) ABCIXIMAB UNSPECIFIED
+) IOVERSOLMismatch found in cell 9547/22 1) ABCIXIMAB UNSPECIFIED
+3) IOVERSOL : ) ABCIXIMAB UNSPECIFIED
+) IOVERSOLMismatch found in cell 9548/22 1) ABCIXIMAB UNSPECIFIED
+3) IOVERSOL : ) ABCIXIMAB UNSPECIFIED
+) IOVERSOLMismatch found in cell 9549/22 1) ABCIXIMAB UNSPECIFIED
+3) IOVERSOL : ) ABCIXIMAB UNSPECIFIED
+) IOVERSOLMismatch found in cell 9550/22 1) ABCIXIMAB UNSPECIFIED
+3) IOVERSOL : ) ABCIXIMAB UNSPECIFIED
+) IOVERSOLMismatch found in cell 9551/22 1) ABCIXIMAB UNSPECIFIED
+3) IOVERSOL : ) ABCIXIMAB UNSPECIFIED
+) IOVERSOLMismatch found in cell 9552/22 1) ABCIXIMAB UNSPECIFIED
+3) IOVERSOL : ) ABCIXIMAB UNSPECIFIED
+) IOVERSOLMismatch found in cell 9553/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9554/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9555/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9556/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9557/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9558/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9559/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9560/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9561/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9562/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9645/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9646/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9720/22 1) ABCIXIMAB UNSPECIFIED
+3) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9721/22 1) ABCIXIMAB UNSPECIFIED
+3) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9722/22 1) ABCIXIMAB UNSPECIFIED
+3) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9723/22 1) ABCIXIMAB UNSPECIFIED
+3) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9771/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9772/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9773/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9774/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9775/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9776/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9777/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9778/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9779/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) TICLOPIDINE
+5) ALTEPLASE : ) ABCIXIMAB UNSPECIFIED
+) ALTEPLASE
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9780/22 1) ABCIXIMAB UNSPECIFIED
+9) TICLOPIDINE
+17) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9781/22 1) ABCIXIMAB UNSPECIFIED
+9) TICLOPIDINE
+17) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9782/22 1) ABCIXIMAB UNSPECIFIED
+9) TICLOPIDINE
+17) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9783/22 1) ABCIXIMAB UNSPECIFIED
+9) TICLOPIDINE
+17) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9784/22 1) ABCIXIMAB UNSPECIFIED
+9) TICLOPIDINE
+17) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9785/22 1) ABCIXIMAB UNSPECIFIED
+9) TICLOPIDINE
+17) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9786/22 1) ABCIXIMAB UNSPECIFIED
+9) TICLOPIDINE
+17) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9787/22 1) ABCIXIMAB UNSPECIFIED
+9) TICLOPIDINE
+17) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9788/22 1) ABCIXIMAB UNSPECIFIED
+9) TICLOPIDINE
+17) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9789/22 1) ABCIXIMAB UNSPECIFIED
+9) TICLOPIDINE
+17) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9790/22 1) ABCIXIMAB UNSPECIFIED
+9) TICLOPIDINE
+17) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9791/22 1) ABCIXIMAB UNSPECIFIED
+9) TICLOPIDINE
+17) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) TICLOPIDINEMismatch found in cell 9811/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9812/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9813/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9814/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9815/22 1) ABCIXIMAB UNSPECIFIED
+3) HEPARIN
+4) TICLOPIDINE : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9816/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) TICLOPIDINE
+4) CONTRAST MEDIA
+6) CLOPIDOGREL : ) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL
+) CONTRAST MEDIA
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9817/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) TICLOPIDINE
+4) CONTRAST MEDIA
+6) CLOPIDOGREL : ) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL
+) CONTRAST MEDIA
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9818/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9819/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9908/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) CLOPIDOGREL : ) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL
+) HEPARINMismatch found in cell 9909/22 1) ABCIXIMAB UNSPECIFIED
+5) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9910/22 1) ABCIXIMAB UNSPECIFIED
+5) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9911/22 1) ABCIXIMAB UNSPECIFIED
+5) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9912/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9913/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9914/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9915/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9916/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9917/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9918/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9919/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+7) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9920/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+7) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9921/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+7) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9922/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+7) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9923/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9979/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9980/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9981/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 9982/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE
+5) ABCIXIMAB UNSPECIFIED
+6) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9983/22 1) ABCIXIMAB UNSPECIFIED
+3) TICLOPIDINE
+5) ABCIXIMAB UNSPECIFIED
+6) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9984/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) CLOPIDOGREL : ) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL
+) HEPARINMismatch found in cell 9985/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) CLOPIDOGREL : ) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL
+) HEPARINMismatch found in cell 9986/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE
+7) ABCIXIMAB UNSPECIFIED
+8) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9987/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE
+7) ABCIXIMAB UNSPECIFIED
+8) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9988/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE
+7) ABCIXIMAB UNSPECIFIED
+8) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9989/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE
+7) ABCIXIMAB UNSPECIFIED
+8) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9990/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE
+7) ABCIXIMAB UNSPECIFIED
+8) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9991/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE
+7) ABCIXIMAB UNSPECIFIED
+8) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9992/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE
+7) ABCIXIMAB UNSPECIFIED
+8) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9993/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) TICLOPIDINE
+7) ABCIXIMAB UNSPECIFIED
+8) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 9994/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 9995/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 10410/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) TICLOPIDINE
+4) CLOPIDOGREL : ) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 10411/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) TICLOPIDINE
+4) CLOPIDOGREL : ) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 10412/22 1) ABCIXIMAB UNSPECIFIED
+2) UROKINASE : ) ABCIXIMAB UNSPECIFIED
+) UROKINASEMismatch found in cell 10413/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 10574/22 1) ABCIXIMAB UNSPECIFIED
+7) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 10640/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 10641/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 10642/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 10643/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 10644/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 10645/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 10646/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 10647/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 10648/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 10649/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 10650/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 10651/22 1) ABCIXIMAB UNSPECIFIED
+3) CLOPIDOGREL
+5) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL
+) HEPARINMismatch found in cell 10652/22 1) ABCIXIMAB UNSPECIFIED
+3) CLOPIDOGREL
+5) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL
+) HEPARINMismatch found in cell 10698/22 1) ABCIXIMAB UNSPECIFIED
+2) TICLOPIDINE
+4) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) TICLOPIDINEMismatch found in cell 10811/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 10812/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 10815/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 11030/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 11031/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 11032/22 1) ABCIXIMAB UNSPECIFIED
+3) CEFAZOLIN
+4) CONTRAST MEDIA
+5) X-RAY CONTRAST MEDIA, NON-IODINATED : ) ABCIXIMAB UNSPECIFIED
+) CEFAZOLIN
+) CONTRAST MEDIA
+) X-RAY CONTRAST MEDIA, NON-IODINATEDMismatch found in cell 11160/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) ABCIXIMAB UNSPECIFIED
+6) CLOPIDOGREL : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL
+) HEPARINMismatch found in cell 11161/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) ABCIXIMAB UNSPECIFIED
+6) CLOPIDOGREL : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL
+) HEPARINMismatch found in cell 11162/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) ABCIXIMAB UNSPECIFIED
+6) CLOPIDOGREL : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL
+) HEPARINMismatch found in cell 11163/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) ABCIXIMAB UNSPECIFIED
+6) CLOPIDOGREL : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL
+) HEPARINMismatch found in cell 11431/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) ANTITHROMBOTIC AGENTS : ) ABCIXIMAB UNSPECIFIED
+) ANTITHROMBOTIC AGENTS
+) HEPARINMismatch found in cell 11432/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) ANTITHROMBOTIC AGENTS : ) ABCIXIMAB UNSPECIFIED
+) ANTITHROMBOTIC AGENTS
+) HEPARINMismatch found in cell 11433/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) ANTITHROMBOTIC AGENTS : ) ABCIXIMAB UNSPECIFIED
+) ANTITHROMBOTIC AGENTS
+) HEPARINMismatch found in cell 11434/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) CLOPIDOGREL : ) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL
+) HEPARINMismatch found in cell 11435/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) ENOXAPARIN : ) ABCIXIMAB UNSPECIFIED
+) ENOXAPARIN
+) HEPARINMismatch found in cell 11436/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+4) CLOPIDOGREL : ) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL
+) HEPARINMismatch found in cell 11437/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 11438/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 11686/22 1) ABCIXIMAB UNSPECIFIED
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 11914/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 11915/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 11916/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 11917/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 11918/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 11919/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 11939/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 11940/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 11941/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 11942/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 11943/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 11944/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIEDMismatch found in cell 11977/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 12309/11 1) 06-APR-1998 TO 06-APR-1998 : 1) 24-MAR-1999 TO 24-MAR-1999Mismatch found in cell 12309/16 469 : 117Mismatch found in cell 12309/20 N : YMismatch found in cell 12309/21 N : YMismatch found in cell 12309/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 12310/11 1) 24-MAR-1999 TO 24-MAR-1999 : 1) 06-APR-1998 TO 06-APR-1998Mismatch found in cell 12310/16 117 : 469Mismatch found in cell 12310/20 Y : NMismatch found in cell 12310/21 Y : NMismatch found in cell 12310/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 12311/11 1) 06-APR-1998 TO 06-APR-1998 : 1) 24-MAR-1999 TO 24-MAR-1999Mismatch found in cell 12311/16 469 : 117Mismatch found in cell 12311/20 N : YMismatch found in cell 12311/21 N : YMismatch found in cell 12311/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 12312/11 1) 24-MAR-1999 TO 24-MAR-1999 : 1) 06-APR-1998 TO 06-APR-1998Mismatch found in cell 12312/16 117 : 469Mismatch found in cell 12312/20 Y : NMismatch found in cell 12312/21 Y : NMismatch found in cell 12312/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+3) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 12313/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12314/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12315/10  : 1) 99D08AAMismatch found in cell 12315/11 1) 19-DEC-1999 TO 19-DEC-1999 : 1) 05-JAN-2000 TO 05-JAN-2000Mismatch found in cell 12315/20 N : YMismatch found in cell 12315/21 N : YMismatch found in cell 12315/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12316/10 1) 99D08AA : Mismatch found in cell 12316/11 1) 05-JAN-2000 TO 05-JAN-2000 : 1) 19-DEC-1999 TO 19-DEC-1999Mismatch found in cell 12316/20 Y : NMismatch found in cell 12316/21 Y : NMismatch found in cell 12316/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12317/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12318/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12319/10  : 1) 99D08AAMismatch found in cell 12319/11 1) 19-DEC-1999 TO 19-DEC-1999 : 1) 05-JAN-2000 TO 05-JAN-2000Mismatch found in cell 12319/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12320/10 1) 99D08AA : Mismatch found in cell 12320/11 1) 05-JAN-2000 TO 05-JAN-2000 : 1) 19-DEC-1999 TO 19-DEC-1999Mismatch found in cell 12320/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12321/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12322/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12323/10  : 1) 99D08AAMismatch found in cell 12323/11 1) 19-DEC-1999 TO 19-DEC-1999 : 1) 05-JAN-2000 TO 05-JAN-2000Mismatch found in cell 12323/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12324/10 1) 99D08AA : Mismatch found in cell 12324/11 1) 05-JAN-2000 TO 05-JAN-2000 : 1) 19-DEC-1999 TO 19-DEC-1999Mismatch found in cell 12324/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12325/10  : 1) 99D08AAMismatch found in cell 12325/11 1) 19-DEC-1999 TO 19-DEC-1999 : 1) 05-JAN-2000 TO 05-JAN-2000Mismatch found in cell 12325/20 N : YMismatch found in cell 12325/21 N : YMismatch found in cell 12325/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12326/10 1) 99D08AA : Mismatch found in cell 12326/11 1) 05-JAN-2000 TO 05-JAN-2000 : 1) 19-DEC-1999 TO 19-DEC-1999Mismatch found in cell 12326/20 Y : NMismatch found in cell 12326/21 Y : NMismatch found in cell 12326/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12327/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12328/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12329/10  : 1) 99D08AAMismatch found in cell 12329/11 1) 19-DEC-1999 TO 19-DEC-1999 : 1) 05-JAN-2000 TO 05-JAN-2000Mismatch found in cell 12329/20 N : YMismatch found in cell 12329/21 N : YMismatch found in cell 12329/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12330/10 1) 99D08AA : Mismatch found in cell 12330/11 1) 05-JAN-2000 TO 05-JAN-2000 : 1) 19-DEC-1999 TO 19-DEC-1999Mismatch found in cell 12330/20 Y : NMismatch found in cell 12330/21 Y : NMismatch found in cell 12330/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12331/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12332/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12333/10  : 1) 99D08AAMismatch found in cell 12333/11 1) 19-DEC-1999 TO 19-DEC-1999 : 1) 05-JAN-2000 TO 05-JAN-2000Mismatch found in cell 12333/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12334/10 1) 99D08AA : Mismatch found in cell 12334/11 1) 05-JAN-2000 TO 05-JAN-2000 : 1) 19-DEC-1999 TO 19-DEC-1999Mismatch found in cell 12334/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12335/10  : 1) 99D08AAMismatch found in cell 12335/11 1) 19-DEC-1999 TO 19-DEC-1999 : 1) 05-JAN-2000 TO 05-JAN-2000Mismatch found in cell 12335/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12336/10 1) 99D08AA : Mismatch found in cell 12336/11 1) 05-JAN-2000 TO 05-JAN-2000 : 1) 19-DEC-1999 TO 19-DEC-1999Mismatch found in cell 12336/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12337/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12338/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12339/10  : 1) 99D08AAMismatch found in cell 12339/11 1) 19-DEC-1999 TO 19-DEC-1999 : 1) 05-JAN-2000 TO 05-JAN-2000Mismatch found in cell 12339/20 N : YMismatch found in cell 12339/21 N : YMismatch found in cell 12339/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12340/10 1) 99D08AA : Mismatch found in cell 12340/11 1) 05-JAN-2000 TO 05-JAN-2000 : 1) 19-DEC-1999 TO 19-DEC-1999Mismatch found in cell 12340/20 Y : NMismatch found in cell 12340/21 Y : NMismatch found in cell 12340/22 1) ABCIXIMAB UNSPECIFIED
+2) ABCIXIMAB UNSPECIFIED
+4) CLOPIDOGREL BISULFATE : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) CLOPIDOGREL BISULFATEMismatch found in cell 12399/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 12400/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 12401/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) ACETYLSALICYLIC ACID : ) ABCIXIMAB UNSPECIFIED
+) ACETYLSALICYLIC ACID
+) HEPARINMismatch found in cell 12402/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 12498/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 12523/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 12532/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN : ) ABCIXIMAB UNSPECIFIED
+) HEPARINMismatch found in cell 12680/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 12681/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 12682/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 12683/22 1) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIEDMismatch found in cell 12687/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) RETEPLASE
+4) HEPARIN
+5) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) RETEPLASEMismatch found in cell 12688/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) RETEPLASE
+4) HEPARIN
+5) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) RETEPLASEMismatch found in cell 12689/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) RETEPLASE
+4) HEPARIN
+5) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) RETEPLASEMismatch found in cell 12690/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) RETEPLASE
+4) HEPARIN
+5) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) RETEPLASEMismatch found in cell 12691/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) RETEPLASE
+4) HEPARIN
+5) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) RETEPLASEMismatch found in cell 12692/22 1) ABCIXIMAB UNSPECIFIED
+2) HEPARIN
+3) RETEPLASE
+4) HEPARIN
+5) ABCIXIMAB UNSPECIFIED : ) ABCIXIMAB UNSPECIFIED
+) ABCIXIMAB UNSPECIFIED
+) HEPARIN
+) HEPARIN
+) RETEPLASE--------------------------------------------------------------------
+----------Comparing Cumulative and Interval Summar2----------Everything matched in sheet : Cumulative and Interval Summar2--------------------------------------------------------------------
+----------Comparing Cases Not in Aggregate----------Everything matched in sheet : Cases Not in Aggregate--------------------------------------------------------------------
+----------Comparing Interval Medication Error - All----------Mismatch found in cell 430/7 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+4) Dose: - - Other
+Freq: - in 12 Hours : 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+2) Dose: - - Other
+Freq: - in 12 HoursMismatch found in cell 430/8 1) -
+4) - : 1) -
+2) -Mismatch found in cell 430/9 1) 
+4) : 1) 
+2)Mismatch found in cell 431/7 1) Dose: - - Unknown
+Freq: - in - -
+4) Dose: 75 mg Unknown
+Freq: 1 in 1 Days : 1) Dose: - - Unknown
+Freq: - in - -
+2) Dose: 75 mg Unknown
+Freq: 1 in 1 DaysMismatch found in cell 431/8 1) -
+4) - : 1) -
+2) -Mismatch found in cell 431/9 1) 
+4) : 1) 
+2)Mismatch found in cell 432/7 1) Dose: 500 mg Other
+Freq: - in - -
+4) Dose: 100 mg Other
+Freq: 1 in 1 Days : 1) Dose: 500 mg Other
+Freq: - in - -
+2) Dose: 100 mg Other
+Freq: 1 in 1 DaysMismatch found in cell 432/8 1) -
+4) - : 1) -
+2) -Mismatch found in cell 432/9 1) 
+4) : 1) 
+2)Mismatch found in cell 434/7 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+4) Dose: - - Other
+Freq: - in 12 Hours : 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+2) Dose: - - Other
+Freq: - in 12 HoursMismatch found in cell 434/8 1) -
+4) - : 1) -
+2) -Mismatch found in cell 434/9 1) 
+4) : 1) 
+2)Mismatch found in cell 435/7 1) Dose: - - Unknown
+Freq: - in - -
+4) Dose: 75 mg Unknown
+Freq: 1 in 1 Days : 1) Dose: - - Unknown
+Freq: - in - -
+2) Dose: 75 mg Unknown
+Freq: 1 in 1 DaysMismatch found in cell 435/8 1) -
+4) - : 1) -
+2) -Mismatch found in cell 435/9 1) 
+4) : 1) 
+2)Mismatch found in cell 436/7 1) Dose: 500 mg Other
+Freq: - in - -
+4) Dose: 100 mg Other
+Freq: 1 in 1 Days : 1) Dose: 500 mg Other
+Freq: - in - -
+2) Dose: 100 mg Other
+Freq: 1 in 1 DaysMismatch found in cell 436/8 1) -
+4) - : 1) -
+2) -Mismatch found in cell 436/9 1) 
+4) : 1) 
+2)Mismatch found in cell 438/7 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+4) Dose: - - Other
+Freq: - in 12 Hours : 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+2) Dose: - - Other
+Freq: - in 12 HoursMismatch found in cell 438/8 1) -
+4) - : 1) -
+2) -Mismatch found in cell 438/9 1) 
+4) : 1) 
+2)Mismatch found in cell 439/7 1) Dose: - - Unknown
+Freq: - in - -
+4) Dose: 75 mg Unknown
+Freq: 1 in 1 Days : 1) Dose: - - Unknown
+Freq: - in - -
+2) Dose: 75 mg Unknown
+Freq: 1 in 1 DaysMismatch found in cell 439/8 1) -
+4) - : 1) -
+2) -Mismatch found in cell 439/9 1) 
+4) : 1) 
+2)Mismatch found in cell 440/7 1) Dose: 500 mg Other
+Freq: - in - -
+4) Dose: 100 mg Other
+Freq: 1 in 1 Days : 1) Dose: 500 mg Other
+Freq: - in - -
+2) Dose: 100 mg Other
+Freq: 1 in 1 DaysMismatch found in cell 440/8 1) -
+4) - : 1) -
+2) -Mismatch found in cell 440/9 1) 
+4) : 1) 
+2)Mismatch found in cell 442/7 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+4) Dose: - - Other
+Freq: - in 12 Hours : 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+2) Dose: - - Other
+Freq: - in 12 HoursMismatch found in cell 442/8 1) -
+4) - : 1) -
+2) -Mismatch found in cell 442/9 1) 
+4) : 1) 
+2)Mismatch found in cell 443/7 1) Dose: - - Unknown
+Freq: - in - -
+4) Dose: 75 mg Unknown
+Freq: 1 in 1 Days : 1) Dose: - - Unknown
+Freq: - in - -
+2) Dose: 75 mg Unknown
+Freq: 1 in 1 DaysMismatch found in cell 443/8 1) -
+4) - : 1) -
+2) -Mismatch found in cell 443/9 1) 
+4) : 1) 
+2)Mismatch found in cell 444/7 1) Dose: 500 mg Other
+Freq: - in - -
+4) Dose: 100 mg Other
+Freq: 1 in 1 Days : 1) Dose: 500 mg Other
+Freq: - in - -
+2) Dose: 100 mg Other
+Freq: 1 in 1 DaysMismatch found in cell 444/8 1) -
+4) - : 1) -
+2) -Mismatch found in cell 444/9 1) 
+4) : 1) 
+2)Mismatch found in cell 446/7 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+4) Dose: - - Other
+Freq: - in 12 Hours : 1) Dose: 2000 ug/mL Other
+Freq: - in - -
+2) Dose: - - Other
+Freq: - in 12 HoursMismatch found in cell 446/8 1) -
+4) - : 1) -
+2) -Mismatch found in cell 446/9 1) 
+4) : 1) 
+2)Mismatch found in cell 447/7 1) Dose: - - Unknown
+Freq: - in - -
+4) Dose: 75 mg Unknown
+Freq: 1 in 1 Days : 1) Dose: - - Unknown
+Freq: - in - -
+2) Dose: 75 mg Unknown
+Freq: 1 in 1 DaysMismatch found in cell 447/8 1) -
+4) - : 1) -
+2) -Mismatch found in cell 447/9 1) 
+4) : 1) 
+2)Mismatch found in cell 448/7 1) Dose: 500 mg Other
+Freq: - in - -
+4) Dose: 100 mg Other
+Freq: 1 in 1 Days : 1) Dose: 500 mg Other
+Freq: - in - -
+2) Dose: 100 mg Other
+Freq: 1 in 1 DaysMismatch found in cell 448/8 1) -
+4) - : 1) -
+2) -Mismatch found in cell 448/9 1) 
+4) : 1) 
+2)Mismatch found in cell 1039/7 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1039/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1039/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1041/7 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1041/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1041/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1043/7 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1043/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1043/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1045/7 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1045/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1045/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1047/7 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1047/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1047/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1095/7 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1095/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1095/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1097/7 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1097/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1097/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1099/7 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1099/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1099/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1101/7 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1101/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1101/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1103/7 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1103/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1103/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1105/7 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1105/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1105/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1107/7 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1107/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1107/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1109/7 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 10 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1109/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1109/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1111/7 1) Dose: 6 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 6 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1111/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1111/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1113/7 1) Dose: 6 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 6 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1113/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1113/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1115/7 1) Dose: 6 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 6 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1115/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1115/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1117/7 1) Dose: 6 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 6 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1117/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1117/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1122/7 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1122/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1122/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1124/7 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1124/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1124/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1126/7 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1126/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1126/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1128/7 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+3) Dose: - - Intra-arterial
+Freq: - in - - : 1) Dose: 8 mg Intra-arterial
+Freq: - in - -
+2) Dose: - - Intra-arterial
+Freq: - in - -Mismatch found in cell 1128/8 1) -
+3) - : 1) -
+2) -Mismatch found in cell 1128/9 1) 
+3) : 1) 
+2)Mismatch found in cell 1302/10 Cardiogenic shock : Myocardial infarctionMismatch found in cell 1302/11 Unknown : FatalMismatch found in cell 1302/12  : 27-DEC-2000Mismatch found in cell 1302/13  : 3Mismatch found in cell 1303/6 ABCIXIMAB INJECTION : HEPARIN SODIUMMismatch found in cell 1303/7 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: 10000 IU Intravenous drip
+Freq: - in - -Mismatch found in cell 1303/8 1) 24-DEC-2000 TO 24-DEC-2000 : 1) 27-DEC-2000 TO 27-DEC-2000Mismatch found in cell 1303/10 Cardiogenic shock : Myocardial infarctionMismatch found in cell 1303/11 Unknown : FatalMismatch found in cell 1303/12  : 27-DEC-2000Mismatch found in cell 1303/13  : 0Mismatch found in cell 1303/15 Y : Mismatch found in cell 1303/17 N : YMismatch found in cell 1303/18 N : YMismatch found in cell 1304/6 HEPARIN SODIUM : TENECTEPLASEMismatch found in cell 1304/7 1) Dose: 10000 IU Intravenous drip
+Freq: - in - - : 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1304/8 1) 27-DEC-2000 TO 27-DEC-2000 : 1) 24-DEC-2000 TO 24-DEC-2000Mismatch found in cell 1304/10 Cardiogenic shock : Myocardial infarctionMismatch found in cell 1304/11 Unknown : FatalMismatch found in cell 1304/12  : 27-DEC-2000Mismatch found in cell 1304/13  : 3Mismatch found in cell 1305/6 TENECTEPLASE : ABCIXIMAB INJECTIONMismatch found in cell 1305/7 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1305/10 Cardiogenic shock : Myocardial infarctionMismatch found in cell 1305/11 Unknown : FatalMismatch found in cell 1305/12  : 27-DEC-2000Mismatch found in cell 1305/13  : 3Mismatch found in cell 1305/15  : YMismatch found in cell 1305/17 Y : NMismatch found in cell 1305/18 Y : NMismatch found in cell 1306/10 Gastrointestinal haemorrhage : Ventricle ruptureMismatch found in cell 1306/11 Unknown : FatalMismatch found in cell 1306/12 27-DEC-2000 : Mismatch found in cell 1306/13 3 : Mismatch found in cell 1306/15 N : YMismatch found in cell 1306/16 N : YMismatch found in cell 1307/6 ABCIXIMAB INJECTION : HEPARIN SODIUMMismatch found in cell 1307/7 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: 10000 IU Intravenous drip
+Freq: - in - -Mismatch found in cell 1307/8 1) 24-DEC-2000 TO 24-DEC-2000 : 1) 27-DEC-2000 TO 27-DEC-2000Mismatch found in cell 1307/10 Gastrointestinal haemorrhage : Ventricle ruptureMismatch found in cell 1307/11 Unknown : FatalMismatch found in cell 1307/12 27-DEC-2000 : Mismatch found in cell 1307/13 3 : Mismatch found in cell 1307/15 N : Mismatch found in cell 1307/17 N : YMismatch found in cell 1307/18 N : YMismatch found in cell 1308/6 HEPARIN SODIUM : TENECTEPLASEMismatch found in cell 1308/7 1) Dose: 10000 IU Intravenous drip
+Freq: - in - - : 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1308/8 1) 27-DEC-2000 TO 27-DEC-2000 : 1) 24-DEC-2000 TO 24-DEC-2000Mismatch found in cell 1308/10 Gastrointestinal haemorrhage : Ventricle ruptureMismatch found in cell 1308/11 Unknown : FatalMismatch found in cell 1308/12 27-DEC-2000 : Mismatch found in cell 1308/13 0 : Mismatch found in cell 1309/6 TENECTEPLASE : ABCIXIMAB INJECTIONMismatch found in cell 1309/7 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1309/10 Gastrointestinal haemorrhage : Ventricle ruptureMismatch found in cell 1309/11 Unknown : FatalMismatch found in cell 1309/12 27-DEC-2000 : Mismatch found in cell 1309/13 3 : Mismatch found in cell 1309/15  : YMismatch found in cell 1309/17 Y : NMismatch found in cell 1309/18 Y : NMismatch found in cell 1310/10 Hypotension : ThrombocytopeniaMismatch found in cell 1310/17 N : YMismatch found in cell 1310/18 N : YMismatch found in cell 1311/6 ABCIXIMAB INJECTION : HEPARIN SODIUMMismatch found in cell 1311/7 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: 10000 IU Intravenous drip
+Freq: - in - -Mismatch found in cell 1311/8 1) 24-DEC-2000 TO 24-DEC-2000 : 1) 27-DEC-2000 TO 27-DEC-2000Mismatch found in cell 1311/10 Hypotension : ThrombocytopeniaMismatch found in cell 1311/13 3 : 0Mismatch found in cell 1311/15 N : Mismatch found in cell 1311/17 N : YMismatch found in cell 1311/18 N : YMismatch found in cell 1312/6 HEPARIN SODIUM : TENECTEPLASEMismatch found in cell 1312/7 1) Dose: 10000 IU Intravenous drip
+Freq: - in - - : 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1312/8 1) 27-DEC-2000 TO 27-DEC-2000 : 1) 24-DEC-2000 TO 24-DEC-2000Mismatch found in cell 1312/10 Hypotension : ThrombocytopeniaMismatch found in cell 1312/13 0 : 3Mismatch found in cell 1313/6 TENECTEPLASE : ABCIXIMAB INJECTIONMismatch found in cell 1313/7 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1313/10 Hypotension : ThrombocytopeniaMismatch found in cell 1313/15  : NMismatch found in cell 1314/10 Lactic acidosis : Gastrointestinal haemorrhageMismatch found in cell 1314/12  : 27-DEC-2000Mismatch found in cell 1314/13  : 3Mismatch found in cell 1314/15 Y : NMismatch found in cell 1314/16 Y : NMismatch found in cell 1315/6 ABCIXIMAB INJECTION : HEPARIN SODIUMMismatch found in cell 1315/7 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: 10000 IU Intravenous drip
+Freq: - in - -Mismatch found in cell 1315/8 1) 24-DEC-2000 TO 24-DEC-2000 : 1) 27-DEC-2000 TO 27-DEC-2000Mismatch found in cell 1315/10 Lactic acidosis : Gastrointestinal haemorrhageMismatch found in cell 1315/12  : 27-DEC-2000Mismatch found in cell 1315/13  : 0Mismatch found in cell 1315/15 Y : Mismatch found in cell 1315/17 N : YMismatch found in cell 1315/18 N : YMismatch found in cell 1316/6 HEPARIN SODIUM : TENECTEPLASEMismatch found in cell 1316/7 1) Dose: 10000 IU Intravenous drip
+Freq: - in - - : 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1316/8 1) 27-DEC-2000 TO 27-DEC-2000 : 1) 24-DEC-2000 TO 24-DEC-2000Mismatch found in cell 1316/10 Lactic acidosis : Gastrointestinal haemorrhageMismatch found in cell 1316/12  : 27-DEC-2000Mismatch found in cell 1316/13  : 3Mismatch found in cell 1317/6 TENECTEPLASE : ABCIXIMAB INJECTIONMismatch found in cell 1317/7 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1317/10 Lactic acidosis : Gastrointestinal haemorrhageMismatch found in cell 1317/12  : 27-DEC-2000Mismatch found in cell 1317/13  : 3Mismatch found in cell 1317/15  : NMismatch found in cell 1317/17 Y : NMismatch found in cell 1317/18 Y : NMismatch found in cell 1318/10 Myocardial infarction : HypotensionMismatch found in cell 1318/11 Fatal : UnknownMismatch found in cell 1318/15 Y : NMismatch found in cell 1318/16 Y : NMismatch found in cell 1319/6 ABCIXIMAB INJECTION : HEPARIN SODIUMMismatch found in cell 1319/7 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: 10000 IU Intravenous drip
+Freq: - in - -Mismatch found in cell 1319/8 1) 24-DEC-2000 TO 24-DEC-2000 : 1) 27-DEC-2000 TO 27-DEC-2000Mismatch found in cell 1319/10 Myocardial infarction : HypotensionMismatch found in cell 1319/11 Fatal : UnknownMismatch found in cell 1319/13 3 : 0Mismatch found in cell 1319/15 Y : Mismatch found in cell 1319/17 N : YMismatch found in cell 1319/18 N : YMismatch found in cell 1320/6 HEPARIN SODIUM : TENECTEPLASEMismatch found in cell 1320/7 1) Dose: 10000 IU Intravenous drip
+Freq: - in - - : 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1320/8 1) 27-DEC-2000 TO 27-DEC-2000 : 1) 24-DEC-2000 TO 24-DEC-2000Mismatch found in cell 1320/10 Myocardial infarction : HypotensionMismatch found in cell 1320/11 Fatal : UnknownMismatch found in cell 1320/13 0 : 3Mismatch found in cell 1321/6 TENECTEPLASE : ABCIXIMAB INJECTIONMismatch found in cell 1321/7 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1321/10 Myocardial infarction : HypotensionMismatch found in cell 1321/11 Fatal : UnknownMismatch found in cell 1321/15  : NMismatch found in cell 1321/17 Y : NMismatch found in cell 1321/18 Y : NMismatch found in cell 1322/10 Overdose : Cardiogenic shockMismatch found in cell 1322/12 DEC-2000 : Mismatch found in cell 1323/6 ABCIXIMAB INJECTION : HEPARIN SODIUMMismatch found in cell 1323/7 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: 10000 IU Intravenous drip
+Freq: - in - -Mismatch found in cell 1323/8 1) 24-DEC-2000 TO 24-DEC-2000 : 1) 27-DEC-2000 TO 27-DEC-2000Mismatch found in cell 1323/10 Overdose : Cardiogenic shockMismatch found in cell 1323/12 DEC-2000 : Mismatch found in cell 1323/15 Y : Mismatch found in cell 1323/17 N : YMismatch found in cell 1323/18 N : YMismatch found in cell 1324/6 HEPARIN SODIUM : TENECTEPLASEMismatch found in cell 1324/7 1) Dose: 10000 IU Intravenous drip
+Freq: - in - - : 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1324/8 1) 27-DEC-2000 TO 27-DEC-2000 : 1) 24-DEC-2000 TO 24-DEC-2000Mismatch found in cell 1324/10 Overdose : Cardiogenic shockMismatch found in cell 1324/12 DEC-2000 : Mismatch found in cell 1325/6 TENECTEPLASE : ABCIXIMAB INJECTIONMismatch found in cell 1325/7 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1325/10 Overdose : Cardiogenic shockMismatch found in cell 1325/12 DEC-2000 : Mismatch found in cell 1325/15  : YMismatch found in cell 1325/17 Y : NMismatch found in cell 1325/18 Y : NMismatch found in cell 1327/6 ABCIXIMAB INJECTION : HEPARIN SODIUMMismatch found in cell 1327/7 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: 10000 IU Intravenous drip
+Freq: - in - -Mismatch found in cell 1327/8 1) 24-DEC-2000 TO 24-DEC-2000 : 1) 27-DEC-2000 TO 27-DEC-2000Mismatch found in cell 1327/15 Y : Mismatch found in cell 1327/17 N : YMismatch found in cell 1327/18 N : YMismatch found in cell 1328/6 HEPARIN SODIUM : TENECTEPLASEMismatch found in cell 1328/7 1) Dose: 10000 IU Intravenous drip
+Freq: - in - - : 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1328/8 1) 27-DEC-2000 TO 27-DEC-2000 : 1) 24-DEC-2000 TO 24-DEC-2000Mismatch found in cell 1329/6 TENECTEPLASE : ABCIXIMAB INJECTIONMismatch found in cell 1329/7 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1329/15  : YMismatch found in cell 1329/17 Y : NMismatch found in cell 1329/18 Y : NMismatch found in cell 1330/10 Thrombocytopenia : Lactic acidosisMismatch found in cell 1330/12 27-DEC-2000 : Mismatch found in cell 1330/13 3 : Mismatch found in cell 1330/15 N : YMismatch found in cell 1330/16 N : YMismatch found in cell 1330/17 Y : NMismatch found in cell 1330/18 Y : NMismatch found in cell 1331/6 ABCIXIMAB INJECTION : HEPARIN SODIUMMismatch found in cell 1331/7 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: 10000 IU Intravenous drip
+Freq: - in - -Mismatch found in cell 1331/8 1) 24-DEC-2000 TO 24-DEC-2000 : 1) 27-DEC-2000 TO 27-DEC-2000Mismatch found in cell 1331/10 Thrombocytopenia : Lactic acidosisMismatch found in cell 1331/12 27-DEC-2000 : Mismatch found in cell 1331/13 3 : Mismatch found in cell 1331/15 N : Mismatch found in cell 1332/6 HEPARIN SODIUM : TENECTEPLASEMismatch found in cell 1332/7 1) Dose: 10000 IU Intravenous drip
+Freq: - in - - : 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1332/8 1) 27-DEC-2000 TO 27-DEC-2000 : 1) 24-DEC-2000 TO 24-DEC-2000Mismatch found in cell 1332/10 Thrombocytopenia : Lactic acidosisMismatch found in cell 1332/12 27-DEC-2000 : Mismatch found in cell 1332/13 0 : Mismatch found in cell 1333/6 TENECTEPLASE : ABCIXIMAB INJECTIONMismatch found in cell 1333/7 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1333/10 Thrombocytopenia : Lactic acidosisMismatch found in cell 1333/12 27-DEC-2000 : Mismatch found in cell 1333/13 3 : Mismatch found in cell 1333/15  : YMismatch found in cell 1333/17 Y : NMismatch found in cell 1333/18 Y : NMismatch found in cell 1334/10 Ventricle rupture : OverdoseMismatch found in cell 1334/11 Fatal : UnknownMismatch found in cell 1334/12  : DEC-2000Mismatch found in cell 1335/6 ABCIXIMAB INJECTION : HEPARIN SODIUMMismatch found in cell 1335/7 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: 10000 IU Intravenous drip
+Freq: - in - -Mismatch found in cell 1335/8 1) 24-DEC-2000 TO 24-DEC-2000 : 1) 27-DEC-2000 TO 27-DEC-2000Mismatch found in cell 1335/10 Ventricle rupture : OverdoseMismatch found in cell 1335/11 Fatal : UnknownMismatch found in cell 1335/12  : DEC-2000Mismatch found in cell 1335/15 Y : Mismatch found in cell 1335/17 N : YMismatch found in cell 1335/18 N : YMismatch found in cell 1336/6 HEPARIN SODIUM : TENECTEPLASEMismatch found in cell 1336/7 1) Dose: 10000 IU Intravenous drip
+Freq: - in - - : 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1336/8 1) 27-DEC-2000 TO 27-DEC-2000 : 1) 24-DEC-2000 TO 24-DEC-2000Mismatch found in cell 1336/10 Ventricle rupture : OverdoseMismatch found in cell 1336/11 Fatal : UnknownMismatch found in cell 1336/12  : DEC-2000Mismatch found in cell 1337/6 TENECTEPLASE : ABCIXIMAB INJECTIONMismatch found in cell 1337/7 1) Dose: 17.5 mg Intravenous bolus
+Freq: 1 in 1 As required : 1) Dose: .25 mg/kg Intravenous bolus
+Freq: 1 in 1 As requiredMismatch found in cell 1337/10 Ventricle rupture : OverdoseMismatch found in cell 1337/11 Fatal : UnknownMismatch found in cell 1337/12  : DEC-2000Mismatch found in cell 1337/15  : YMismatch found in cell 1337/17 Y : NMismatch found in cell 1337/18 Y : N--------------------------------------------------------------------
+----------Comparing Interval Medication Error - Al2----------Everything matched in sheet : Interval Medication Error - Al2--------------------------------------------------------------------
+----------Comparing Interval Medication Error - Al3----------Everything matched in sheet : Interval Medication Error - Al3--------------------------------------------------------------------
+----------Comparing Interval Medication Error - Al4----------Everything matched in sheet : Interval Medication Error - Al4--------------------------------------------------------------------
+----------Comparing Interval Medication Error - Al5----------Mismatch found in cell 136/56 1) Other
+4) Other : 1) Other
+2) OtherMismatch found in cell 136/57 1) 2000
+4) : 1) 2000
+2)Mismatch found in cell 136/58 1) ug/mL
+4) : 1) ug/mL
+2)Mismatch found in cell 136/59 1)  
+4) 12 Hours : 1)  
+2) 12 HoursMismatch found in cell 136/60 1) -
+4) - : 1) -
+2) -Mismatch found in cell 136/61 1) -
+4) - : 1) -
+2) -Mismatch found in cell 136/62 1) 
+4) : 1) 
+2)Mismatch found in cell 174/63  : 1) UnknownMismatch found in cell 255/34  : 1) THROMBOPENIA
+2) PUNCTURE POINT BLEEDING
+3) METRORRHAGIA
+4) DRUG USED FOR UNAPPROVED INDICATION
+5) OFF LABEL USEMismatch found in cell 258/34  : 1) SYMPTOMATIC INTRACRANIAL HEMORRHAGE
+2) OFF LABEL USE
+3) WRONG ROUTE OF DRUG ADMINISTRATION
+4) DRUG USED FOR UNAPPROVED INDICATIONMismatch found in cell 259/34  : 1) SYMPTOMATIC INTRACRANIAL HEMORRHAGE
+2) OFF LABEL USE
+3) WRONG ROUTE OF DRUG ADMINISTRATION
+4) DRUG USED FOR UNAPPROVED INDICATIONMismatch found in cell 264/56 1) Intra-arterial
+3) Intra-arterial : 1) Intra-arterial
+2) Intra-arterialMismatch found in cell 264/57 1) 10
+3) : 1) 10
+2)Mismatch found in cell 264/58 1) mg
+3) : 1) mg
+2)Mismatch found in cell 264/59 1)  
+3) : 1)  
+2)Mismatch found in cell 264/60 1) -
+3) - : 1) -
+2) -Mismatch found in cell 264/61 1) -
+3) - : 1) -
+2) -Mismatch found in cell 264/62 1) 
+3) : 1) 
+2)Mismatch found in cell 275/56 1) Intra-arterial
+3) Intra-arterial : 1) Intra-arterial
+2) Intra-arterialMismatch found in cell 275/57 1) 8
+3) : 1) 8
+2)Mismatch found in cell 275/58 1) mg
+3) : 1) mg
+2)Mismatch found in cell 275/59 1)  
+3) : 1)  
+2)Mismatch found in cell 275/60 1) -
+3) - : 1) -
+2) -Mismatch found in cell 275/61 1) -
+3) - : 1) -
+2) -Mismatch found in cell 275/62 1) 
+3) : 1) 
+2)Mismatch found in cell 276/56 1) Intra-arterial
+3) Intra-arterial : 1) Intra-arterial
+2) Intra-arterialMismatch found in cell 276/57 1) 10
+3) : 1) 10
+2)Mismatch found in cell 276/58 1) mg
+3) : 1) mg
+2)Mismatch found in cell 276/59 1)  
+3) : 1)  
+2)Mismatch found in cell 276/60 1) -
+3) - : 1) -
+2) -Mismatch found in cell 276/61 1) -
+3) - : 1) -
+2) -Mismatch found in cell 276/62 1) 
+3) : 1) 
+2)Mismatch found in cell 277/56 1) Intra-arterial
+3) Intra-arterial : 1) Intra-arterial
+2) Intra-arterialMismatch found in cell 277/57 1) 6
+3) : 1) 6
+2)Mismatch found in cell 277/58 1) mg
+3) : 1) mg
+2)Mismatch found in cell 277/59 1)  
+3) : 1)  
+2)Mismatch found in cell 277/60 1) -
+3) - : 1) -
+2) -Mismatch found in cell 277/61 1) -
+3) - : 1) -
+2) -Mismatch found in cell 277/62 1) 
+3) : 1) 
+2)Mismatch found in cell 279/56 1) Intra-arterial
+3) Intra-arterial : 1) Intra-arterial
+2) Intra-arterialMismatch found in cell 279/57 1) 8
+3) : 1) 8
+2)Mismatch found in cell 279/58 1) mg
+3) : 1) mg
+2)Mismatch found in cell 279/59 1)  
+3) : 1)  
+2)Mismatch found in cell 279/60 1) -
+3) - : 1) -
+2) -Mismatch found in cell 279/61 1) -
+3) - : 1) -
+2) -Mismatch found in cell 279/62 1) 
+3) : 1) 
+2)Mismatch found in cell 291/34  : 1) HEMORRHAGE
+2) DRUG USE FOR UNAPPROVED INDICATION
+3) OFF LABEL USEMismatch found in cell 317/41 1) 3
+2) 
+3) 3
+4) 3
+5) 3
+6) 
+7) 
+8) 
+9) : 1) 2
+2) 
+3) 2
+4) 2
+5) 2
+6) 
+7) 
+8) 
+9)Mismatch found in cell 317/56 1) Intravenous bolus : 1) Intravenous dripMismatch found in cell 317/57 1) .25 : 1)Mismatch found in cell 317/58 1) mg/kg : 1)Mismatch found in cell 317/59 1) 1 As required : 1)Mismatch found in cell 317/61 1) 24-DEC-2000 : 1) 25-DEC-2000Mismatch found in cell 317/62 1) 0 : 1) 1Mismatch found in cell 317/66 2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : Mismatch found in cell 317/67 5) HEPARIN
+6) ACETYLSALICYLIC ACID
+7) FAMOTIDINE
+8) PROPRANOLOL HYDROCHLORIDE : ) ACETYLSALICYLIC ACID
+) FAMOTIDINE
+) HEPARIN
+) PROPRANOLOL HYDROCHLORIDEMismatch found in cell 317/71 1) Not assessable
+2) Not assessable
+3) Possible
+4) Not Related
+5) Not assessable
+6) Not assessable
+7) Not Related
+8) Not Related
+9) Not assessable : 6) Not assessable
+4) Not Related
+5) Not assessable
+1) Not assessable
+2) Not assessable
+3) Possible
+9) Not assessable
+8) Not Related
+7) Not RelatedMismatch found in cell 317/72 1) Not assessable
+2) Not assessable
+3) Possible
+4) Not Related
+5) Not assessable
+6) Not assessable
+7) Not Related
+8) Not Related
+9) Not assessable : 6) Not assessable
+4) Not Related
+5) Not assessable
+1) Not assessable
+2) Not assessable
+3) Possible
+9) Not assessable
+8) Not Related
+7) Not RelatedMismatch found in cell 318/41 1) 2
+2) 
+3) 2
+4) 2
+5) 2
+6) 
+7) 
+8) 
+9) : 1) 3
+2) 
+3) 3
+4) 3
+5) 3
+6) 
+7) 
+8) 
+9)Mismatch found in cell 318/56 1) Intravenous drip : 1) Intravenous bolusMismatch found in cell 318/57 1) : 1) .25Mismatch found in cell 318/58 1) : 1) mg/kgMismatch found in cell 318/59 1) : 1) 1 As requiredMismatch found in cell 318/61 1) 25-DEC-2000 : 1) 24-DEC-2000Mismatch found in cell 318/62 1) 1 : 1) 0Mismatch found in cell 318/66 2) ABCIXIMAB INJECTION
+3) TENECTEPLASE
+4) HEPARIN SODIUM : Mismatch found in cell 318/67 5) HEPARIN
+6) ACETYLSALICYLIC ACID
+7) FAMOTIDINE
+8) PROPRANOLOL HYDROCHLORIDE : ) ACETYLSALICYLIC ACID
+) FAMOTIDINE
+) HEPARIN
+) PROPRANOLOL HYDROCHLORIDEMismatch found in cell 318/71 1) Not assessable
+2) Not assessable
+3) Possible
+4) Not Related
+5) Not assessable
+6) Not assessable
+7) Not Related
+8) Not Related
+9) Not assessable : 6) Not assessable
+4) Not Related
+5) Not assessable
+1) Not assessable
+2) Not assessable
+3) Possible
+9) Not assessable
+8) Not Related
+7) Not RelatedMismatch found in cell 318/72 1) Not assessable
+2) Not assessable
+3) Possible
+4) Not Related
+5) Not assessable
+6) Not assessable
+7) Not Related
+8) Not Related
+9) Not assessable : 6) Not assessable
+4) Not Related
+5) Not assessable
+1) Not assessable
+2) Not assessable
+3) Possible
+9) Not assessable
+8) Not Related
+7) Not RelatedMismatch found in cell 319/66 2) RETEPLASE POWDER FOR INFUSION : Mismatch found in cell 319/71 1) Possible
+2) Possible
+3) Possible : 3) Possible
+2) Possible
+1) PossibleMismatch found in cell 319/72 1) Possible
+2) Possible
+3) Possible : 3) Possible
+2) Possible
+1) PossibleMismatch found in cell 326/63  : 1) LY314356Mismatch found in cell 331/34  : 1) ACCIDENTAL CONTACT WITH REOPRO SYRINGE
+2) AFFECTED FINGER COLD AND BLUE ALL WEEKENDMismatch found in cell 331/67 2) BUPROPION HYDROCHLORIDE
+3) ETHINYLESTRADIOL;FERROUS FUMARATE;NORETHISTERONE ACETATE : ) BUPROPION HYDROCHLORIDE
+) ETHINYLESTRADIOL;FERROUS FUMARATE;NORETHISTERONE ACETATE--------------------------------------------------------------------
+----------Comparing Caselist - Cumulative Summary T----------Everything matched in sheet : Caselist - Cumulative Summary T--------------------------------------------------------------------
+----------Comparing Caselist - Cumulative Summary 2----------Mismatch found in cell 2423/1 20170410970 (1) : 20170410970 (2)--------------------------------------------------------------------
+----------Comparing Caselist - Cumulative Summary 3----------Everything matched in sheet : Caselist - Cumulative Summary 3--------------------------------------------------------------------
+----------Comparing Appendix----------Everything matched in sheet : Appendix--------------------------------------------------------------------
+----------Comparing Report Legend----------Everything matched in sheet : Report Legend--------------------------------------------------------------------
